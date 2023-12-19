@@ -1,0 +1,1981 @@
+RELIANCE.NS	Reliance Industries Limited
+RELIANCE.BO	Reliance Industries Limited
+TCS.NS	Tata Consultancy Services Limited
+TCS.BO	Tata Consultancy Services Limited
+HDFCBANK.NS	HDFC Bank Limited
+HDFCBANK.BO	HDFC Bank Limited
+HDFC.BO	Housing Development Finance Corporation Limited
+HDFC.NS	Housing Development Finance Corporation Limited
+HINDUNILVR.NS	Hindustan Unilever Limited
+HINDUNILVR.BO	Hindustan Unilever Limited
+ICICIBANK.BO	ICICI Bank Limited
+ICICIBANK.NS	ICICI Bank Limited
+KOTAKBANK.NS	Kotak Mahindra Bank Limited
+KOTAKBANK.BO	Kotak Mahindra Bank Limited
+INFY.NS	Infosys Limited
+INFY.BO	Infosys Limited
+SBIN.BO	State Bank of India
+SBIN.NS	State Bank of India
+ITC.NS	ITC Limited
+ITC.BO	ITC Limited
+BAJFINANCE.NS	Bajaj Finance Limited
+BAJFINANCE.BO	Bajaj Finance Limited
+BHARTIARTL.NS	Bharti Airtel Limited
+BHARTIARTL.BO	Bharti Airtel Limited
+MARUTI.BO	Maruti Suzuki India Limited
+MARUTI.NS	Maruti Suzuki India Limited
+STAN.BO	Standard Chartered PLC
+AXISBANK.BO	Axis Bank Limited
+AXISBANK.NS	Axis Bank Limited
+LT.NS	Larsen & Toubro Limited
+LT.BO	Larsen & Toubro Limited
+ASIANPAINT.NS	Asian Paints Limited
+ASIANPAINT.BO	Asian Paints Limited
+ONGC.BO	Oil and Natural Gas Corporation Limited
+ONGC.NS	Oil and Natural Gas Corporation Limited
+HCLTECH.NS	HCL Technologies Limited
+HCLTECH.BO	HCL Technologies Limited
+BAJAJFINSV.BO	Bajaj Finserv Limited
+BAJAJFINSV.NS	Bajaj Finserv Limited
+WIPRO.NS	Wipro Limited
+WIPRO.BO	Wipro Limited
+NESTLEIND.BO	Nestlé India Limited
+NESTLEIND.NS	Nestlé India Limited
+COALINDIA.BO	Coal India Limited
+COALINDIA.NS	Coal India Limited
+HDFCLIFE.BO	HDFC Standard Life Insurance Company Limited
+HDFCLIFE.NS	HDFC Standard Life Insurance Company Limited
+ULTRACEMCO.BO	UltraTech Cement Limited
+ULTRACEMCO.NS	UltraTech Cement Limited
+IOC.NS	Indian Oil Corporation Limited
+NTPC.BO	NTPC Limited
+IOC.BO	Indian Oil Corporation Limited
+NTPC.NS	NTPC Limited
+DMART.NS	Avenue Supermarts Limited
+DMART.BO	Avenue Supermarts Limited
+SUNPHARMA.BO	Sun Pharmaceutical Industries Limited
+SUNPHARMA.NS	Sun Pharmaceutical Industries Limited
+INDUSINDBK.NS	IndusInd Bank Limited
+INDUSINDBK.BO	IndusInd Bank Limited
+BPCL.NS	Bharat Petroleum Corporation Limited
+BPCL.BO	Bharat Petroleum Corporation Limited
+TITAN.NS	Titan Company Limited
+TITAN.BO	Titan Company Limited
+POWERGRID.BO	Power Grid Corporation of India Limited
+POWERGRID.NS	Power Grid Corporation of India Limited
+SBILIFE.NS	SBI Life Insurance Company Limited
+SBILIFE.BO	SBI Life Insurance Company Limited
+HINDZINC.NS	Hindustan Zinc Limited
+HINDZINC.BO	Hindustan Zinc Limited
+BAJAJ-AUTO.BO	Bajaj Auto Limited
+BAJAJ-AUTO.NS	Bajaj Auto Limited
+BANDHANBNK.NS	Bandhan Bank Limited
+DABUR.NS	Dabur India Limited
+DABUR.BO	Dabur India Limited
+ADANIPORTS.NS	Adani Ports and Special Economic Zone Limited
+ADANIPORTS.BO	Adani Ports and Special Economic Zone Limited
+SHREECEM.BO	Shree Cement Limited
+SHREECEM.NS	Shree Cement Limited
+TECHM.NS	Tech Mahindra Limited
+TECHM.BO	Tech Mahindra Limited
+BRITANNIA.NS	Britannia Industries Limited
+BRITANNIA.BO	Britannia Industries Limited
+PIDILITIND.NS	Pidilite Industries Limited
+PIDILITIND.BO	Pidilite Industries Limited
+GODREJCP.BO	Godrej Consumer Products Limited
+GODREJCP.NS	Godrej Consumer Products Limited
+ICICIPRULI.BO	ICICI Prudential Life Insurance Company Limited
+ICICIPRULI.NS	ICICI Prudential Life Insurance Company Limited
+HDFCAMC.NS	HDFC Asset Management Company Limited
+M&M.NS	Mahindra & Mahindra Limited
+M&M.BO	Mahindra & Mahindra Limited
+JSWSTEEL.NS	JSW Steel Limited
+JSWSTEEL.BO	JSW Steel Limited
+TATAMOTORS.BO	Tata Motors Limited
+TATAMOTORS.NS	Tata Motors Limited
+TATAMTRDVR.NS	Tata Motors Limited
+TATAMTRDVR.BO	Tata Motors Limited
+ICICIGI.NS	ICICI Lombard General Insurance Company Limited
+ICICIGI.BO	ICICI Lombard General Insurance Company Limited
+VEDL.NS	Vedanta Limited
+VEDL.BO	Vedanta Limited
+TATASTEEL.NS	Tata Steel Limited
+TATASTEEL.BO	Tata Steel Limited
+EICHERMOT.NS	Eicher Motors Limited
+EICHERMOT.BO	Eicher Motors Limited
+DLF.NS	DLF Limited
+DLF.BO	DLF Limited
+BATAINDIA.NS	Bata India Limited
+GAIL.BO	GAIL (India) Limited
+GAIL.NS	GAIL (India) Limited
+SIEMENS.NS	Siemens Limited
+SIEMENS.BO	Siemens Limited
+INDIGO.BO	InterGlobe Aviation Limited
+INDIGO.NS	InterGlobe Aviation Limited
+GRASIM.NS	Grasim Industries Limited
+GRASIM.BO	Grasim Industries Limited
+BERGEPAINT.BO	Berger Paints India Limited
+BERGEPAINT.NS	Berger Paints India Limited
+HINDALCO.NS	Hindalco Industries Limited
+DIVISLAB.NS	Divi's Laboratories Limited
+HEROMOTOCO.BO	Hero MotoCorp Limited
+HEROMOTOCO.NS	Hero MotoCorp Limited
+DIVISLAB.BO	Divi's Laboratories Limited
+HINDALCO.BO	Hindalco Industries Limited
+DRREDDY.NS	Dr. Reddy's Laboratories Limited
+DRREDDY.BO	Dr. Reddy's Laboratories Limited
+MOTHERSUMI.NS	Motherson Sumi Systems Limited
+MOTHERSUMI.BO	Motherson Sumi Systems Limited
+INFRATEL.BO	Bharti Infratel Limited
+INFRATEL.NS	Bharti Infratel Limited
+BOSCHLTD.BO	Bosch Limited
+BOSCHLTD.NS	Bosch Limited
+UPL.BO	UPL Limited
+UPL.NS	UPL Limited
+PNB.NS	Punjab National Bank
+PNB.BO	Punjab National Bank
+GICRE.BO	General Insurance Corporation of India
+GICRE.NS	General Insurance Corporation of India
+MARICO.NS	Marico Limited
+MARICO.BO	Marico Limited
+MCDOWELL-N.NS	United Spirits Limited
+UNITDSPR.BO	United Spirits Limited
+HAVELLS.BO	Havells India Limited
+HAVELLS.NS	Havells India Limited
+AMBUJACEM.NS	Ambuja Cements Limited
+AMBUJACEM.BO	Ambuja Cements Limited
+PETRONET.BO	Petronet LNG Limited
+PETRONET.NS	Petronet LNG Limited
+HINDPETRO.BO	Hindustan Petroleum Corporation Limited
+HINDPETRO.NS	Hindustan Petroleum Corporation Limited
+COLPAL.BO	Colgate-Palmolive (India) Limited
+NMDC.BO	NMDC Limited
+COLPAL.NS	Colgate-Palmolive (India) Limited
+NMDC.NS	NMDC Limited
+ADANITRANS.NS	Adani Transmissions Limited
+ADANITRANS.BO	Adani Transmissions Limited
+CIPLA.BO	Cipla Limited
+CIPLA.NS	Cipla Limited
+PGHH.BO	Procter & Gamble Hygiene and Health Care Limited
+PGHH.NS	Procter & Gamble Hygiene and Health Care Limited
+BIOCON.NS	Biocon Limited
+BIOCON.BO	Biocon Limited
+LUPIN.NS	Lupin Limited
+LUPIN.BO	Lupin Limited
+GSKCONS.NS	GlaxoSmithKline Consumer Healthcare Limited
+GSKCONS.BO	GlaxoSmithKline Consumer Healthcare Limited
+CONCOR.BO	Container Corporation of India Limited
+UBL.NS	United Breweries Limited
+UBL.BO	United Breweries Limited
+TORNTPHARM.BO	Torrent Pharmaceuticals Limited
+TORNTPHARM.NS	Torrent Pharmaceuticals Limited
+CONCOR.NS	Container Corporation of India Limited
+PFC.NS	Power Finance Corporation Limited
+PFC.BO	Power Finance Corporation Limited
+LTI.NS	Larsen & Toubro Infotech Limited
+NAUKRI.NS	Info Edge (India) Limited
+LTI.BO	Larsen & Toubro Infotech Limited
+NAUKRI.BO	Info Edge (India) Limited
+PEL.BO	Piramal Enterprises Limited
+PEL.NS	Piramal Enterprises Limited
+MUTHOOTFIN.NS	Muthoot Finance Limited
+MUTHOOTFIN.BO	Muthoot Finance Limited
+ADANIGREEN.NS	Adani Green Energy Limited
+WHIRLPOOL.BO	Whirlpool of India Limited
+WHIRLPOOL.NS	Whirlpool of India Limited
+IGL.NS	Indraprastha Gas Limited
+IGL.BO	Indraprastha Gas Limited
+RECLTD.NS	Rural Electrification Corporation Limited
+RECLTD.BO	Rural Electrification Corporation Limited
+MRF.BO	MRF Limited
+MRF.NS	MRF Limited
+ABBOTINDIA.BO	Abbott India Limited
+KANSAINER.BO	Kansai Nerolac Paints Limited
+ABBOTINDIA.NS	Abbott India Limited
+ACC.BO	ACC Limited
+ACC.NS	ACC Limited
+KANSAINER.NS	Kansai Nerolac Paints Limited
+ABB.BO	ABB India Limited
+ABB.NS	ABB India Limited
+GLAXO.BO	GlaxoSmithkline Pharmaceuticals Limited
+AUROPHARMA.BO	Aurobindo Pharma Limited
+BANKBARODA.BO	Bank of Baroda
+GLAXO.NS	GlaxoSmithkline Pharmaceuticals Limited
+BANKBARODA.NS	Bank of Baroda
+AUROPHARMA.NS	Aurobindo Pharma Limited
+ZEEL.NS	Zee Entertainment Enterprises Limited
+ZEEL.BO	Zee Entertainment Enterprises Limited
+SRTRANSFIN.BO	Shriram Transport Finance Company Limited
+CADILAHC.BO	Cadila Healthcare Limited
+SRTRANSFIN.NS	Shriram Transport Finance Company Limited
+CADILAHC.NS	Cadila Healthcare Limited
+PAGEIND.NS	Page Industries Limited
+PAGEIND.BO	Page Industries Limited
+BEL.BO	Bharat Electronics Limited
+BEL.NS	Bharat Electronics Limited
+ALKEM.BO	Alkem Laboratories Limited
+ALKEM.NS	Alkem Laboratories Limited
+ABCAPITAL.NS	Aditya Birla Capital Limited
+ABCAPITAL.BO	Aditya Birla Capital Limited
+ADANIPOWER.BO	Adani Power Limited
+ADANIPOWER.NS	Adani Power Limited
+ASHOKLEY.NS	Ashok Leyland Limited
+ASHOKLEY.BO	Ashok Leyland Limited
+GODREJPROP.BO	Godrej Properties Limited
+GODREJPROP.NS	Godrej Properties Limited
+HAL.NS	Hindustan Aeronautics Limited
+MINDIA.BO	M India Limited
+MINDIA.NS	M India Limited
+HONAUT.NS	Honeywell Automation India Limited
+AUBANK.NS	AU Small Finance Bank Limited
+L&TFH.BO	L&T Finance Holdings Limited
+NHPC.BO	NHPC Limited
+NHPC.NS	NHPC Limited
+AUBANK.BO	AU Small Finance Bank Limited
+L&TFH.NS	L&T Finance Holdings Limited
+CHOLAFIN.NS	Cholamandalam Investment and Finance Company Limited
+CHOLAFIN.BO	Cholamandalam Investment and Finance Company Limited
+HONAUT.BO	Honeywell Automation India Limited
+NIACL.BO	The New India Assurance Company Limited
+NIACL.NS	The New India Assurance Company Limited
+OFSS.NS	Oracle Financial Services Software Limited
+OFSS.BO	Oracle Financial Services Software Limited
+BANKINDIA.NS	Bank of India Limited
+BANKINDIA.BO	Bank of India Limited
+ADANIENT.BO	Adani Enterprises Limited
+CANBK.BO	Canara Bank
+CANBK.NS	Canara Bank
+ADANIENT.NS	Adani Enterprises Limited
+BHARATFORG.NS	Bharat Forge Limited
+BHARATFORG.BO	Bharat Forge Limited
+LICHSGFIN.BO	LIC Housing Finance Limited
+LICHSGFIN.NS	LIC Housing Finance Limited
+BATAINDIA.BO	Bata India Limited
+JUBLFOOD.BO	Jubilant FoodWorks Limited
+JUBLFOOD.NS	Jubilant FoodWorks Limited
+IDFCFIRSTB.NS	IDFC First Bank Limited
+RNAM.BO	Reliance Nippon Life Asset Management Limited
+RNAM.NS	Reliance Nippon Life Asset Management Limited
+VOLTAS.BO	Voltas Limited
+VOLTAS.NS	Voltas Limited
+GILLETTE.NS	Gillette India Limited
+GILLETTE.BO	Gillette India Limited
+TVSMOTOR.BO	TVS Motor Company Limited
+TVSMOTOR.NS	TVS Motor Company Limited
+GUJGAS.BO	Gujarat Gas Limited
+APOLLOHOSP.NS	Apollo Hospitals Enterprise Limited
+APOLLOHOSP.BO	Apollo Hospitals Enterprise Limited
+M&MFIN.NS	Mahindra & Mahindra Financial Services Limited
+M&MFIN.BO	Mahindra & Mahindra Financial Services Limited
+VBL.NS	Varun Beverages Limited
+VBL.BO	Varun Beverages Limited
+RAJESHEXPO.NS	Rajesh Exports Limited
+RAJESHEXPO.BO	Rajesh Exports Limited
+TATAGLOBAL.BO	Tata Global Beverages Limited
+TATAGLOBAL.NS	Tata Global Beverages Limited
+PIIND.NS	PI Industries Limited
+PIIND.BO	PI Industries Limited
+SRF.NS	SRF Limited
+SRF.BO	SRF Limited
+ADANIGAS.NS	Adani Gas Limited
+SAIL.NS	Steel Authority of India Limited
+SAIL.BO	Steel Authority of India Limited
+PFIZER.BO	Pfizer Limited
+PFIZER.NS	Pfizer Limited
+TRENT.NS	Trent Limited
+OBEROIRLTY.NS	Oberoi Realty Limited
+OBEROIRLTY.BO	Oberoi Realty Limited
+UNIONBANK.NS	Union Bank of India
+UNIONBANK.BO	Union Bank of India
+BALKRISIND.BO	Balkrishna Industries Limited
+BALKRISIND.NS	Balkrishna Industries Limited
+ABFRL.NS	Aditya Birla Fashion and Retail Limited
+RBLBANK.NS	RBL Bank Limited
+ABFRL.BO	Aditya Birla Fashion and Retail Limited
+FEDERALBNK.NS	The Federal Bank Limited
+FEDERALBNK.BO	The Federal Bank Limited
+RAMCOCEM.NS	The Ramco Cements Limited
+RAMCOCEM.BO	The Ramco Cements Limited
+TRENT.BO	Trent Limited
+JINDALSTEL.BO	Jindal Steel & Power Limited
+JINDALSTEL.BO	Jindal Steel & Power Limited
+IDEA.BO	Idea Cellular Limited
+INDHOTEL.NS	The Indian Hotels Company Limited
+INDHOTEL.BO	The Indian Hotels Company Limited
+ASTRAL.BO	Astral Poly Technik Limited
+IDEA.NS	Idea Cellular Limited
+ASTRAL.NS	Astral Poly Technik Limited
+GUJGASLTD.NS	Gujarat Gas Limited
+TATACHEM.NS	Tata Chemicals Limited
+TATACHEM.BO	Tata Chemicals Limited
+SUNTV.BO	Sun TV Network Limited
+CUB.NS	City Union Bank Limited
+CUB.BO	City Union Bank Limited
+SUNTV.NS	Sun TV Network Limited
+OIL.BO	Oil India Limited
+OIL.NS	Oil India Limited
+FRETAIL.NS	Future Retail Limited
+FRETAIL.BO	Future Retail Limited
+MPHASIS.BO	Mphasis Limited
+BAYERCROP.NS	Bayer CropScience Limited
+MPHASIS.NS	Mphasis Limited
+BAYERCROP.BO	Bayer CropScience Limited
+CUMMINSIND.BO	Cummins India Limited
+CUMMINSIND.NS	Cummins India Limited
+EXIDEIND.BO	Exide Industries Limited
+EXIDEIND.NS	Exide Industries Limited
+SANOFI.NS	Sanofi India Limited
+SANOFI.BO	Sanofi India Limited
+DALBHARAT.NS	Dalmia Bharat Limited
+AAVAS.NS	Aavas Financiers Limited
+LTTS.BO	L&T Technology Services Limited
+COROMANDEL.BO	Coromandel International Limited
+LTTS.NS	L&T Technology Services Limited
+COROMANDEL.NS	Coromandel International Limited
+TATAPOWER.NS	The Tata Power Company Limited
+TATAPOWER.BO	The Tata Power Company Limited
+BHEL.BO	Bharat Heavy Electricals Limited
+BHEL.NS	Bharat Heavy Electricals Limited
+RELAXO.BO	Relaxo Footwears Limited
+RELAXO.NS	Relaxo Footwears Limited
+AIAENG.NS	AIA Engineering Limited
+ENDURANCE.BO	Endurance Technologies Limited
+AIAENG.BO	AIA Engineering Limited
+RBLBANK.BO	RBL Bank Limited
+ENDURANCE.NS	Endurance Technologies Limited
+CROMPTON.BO	Crompton Greaves Consumer Electricals Limited
+CROMPTON.NS	Crompton Greaves Consumer Electricals Limited
+IRCTC.NS	Indian Railway Catering & Tourism Corporation Limited
+MANAPPURAM.NS	Manappuram Finance Limited
+MANAPPURAM.BO	Manappuram Finance Limited
+MFSL.NS	Max Financial Services Limited
+MFSL.BO	Max Financial Services Limited
+SUPREMEIND.NS	The Supreme Industries Limited
+SUPREMEIND.BO	The Supreme Industries Limited
+AARTIIND.NS	Aarti Industries Limited
+AARTIIND.BO	Aarti Industries Limited
+GODREJIND.BO	Godrej Industries Limited
+GODREJIND.NS	Godrej Industries Limited
+POLYCAB.NS	Polycab India Limited
+SCHAEFFLER.BO	Schaeffler India Limited
+IPCALAB.BO	Ipca Laboratories Limited
+SCHAEFFLER.NS	Schaeffler India Limited
+IPCALAB.NS	Ipca Laboratories Limited
+EMAMILTD.NS	Emami Limited
+EMAMILTD.BO	Emami Limited
+TORNTPOWER.BO	Torrent Power Limited
+TORNTPOWER.NS	Torrent Power Limited
+IBULHSGFIN.BO	Indiabulls Housing Finance Limited
+IBULHSGFIN.NS	Indiabulls Housing Finance Limited
+GMRINFRA.BO	GMR Infrastructure Limited
+GMRINFRA.NS	GMR Infrastructure Limited
+CRISIL.NS	CRISIL Limited
+CRISIL.BO	CRISIL Limited
+GSPL.BO	Gujarat State Petronet Limited
+GSPL.NS	Gujarat State Petronet Limited
+SYNGENE.NS	Syngene International Limited
+ISEC.NS	ICICI Securities Limited
+MINDTREE.BO	Mindtree Limited
+MINDTREE.NS	Mindtree Limited
+SYNGENE.BO	Syngene International Limited
+THERMAX.BO	Thermax Limited
+THERMAX.NS	Thermax Limited
+IBVENTURES.BO	Indiabulls Ventures Limited
+IBVENTURES.NS	Indiabulls Ventures Limited
+PHOENIXLTD.BO	The Phoenix Mills Limited
+CASTROLIND.NS	Castrol India Limited
+CASTROLIND.BO	Castrol India Limited
+LALPATHLAB.BO	Dr. Lal PathLabs Limited
+PHOENIXLTD.NS	The Phoenix Mills Limited
+LALPATHLAB.NS	Dr. Lal PathLabs Limited
+WABCOINDIA.NS	Wabco India Limited
+MOTILALOFS.NS	Motilal Oswal Financial Services Limited
+WABCOINDIA.BO	Wabco India Limited
+MOTILALOFS.BO	Motilal Oswal Financial Services Limited
+AMARAJABAT.BO	Amara Raja Batteries Limited
+AMARAJABAT.NS	Amara Raja Batteries Limited
+ATUL.NS	Atul Ltd
+ATUL.BO	Atul Ltd
+PRESTIGE.BO	Prestige Estates Projects Limited
+YESBANK.NS	Yes Bank Limited
+PRESTIGE.NS	Prestige Estates Projects Limited
+YESBANK.BO	Yes Bank Limited
+JSWENERGY.BO	JSW Energy Limited
+JSWENERGY.NS	JSW Energy Limited
+TATACOMM.BO	Tata Communications Limited
+TATACOMM.NS	Tata Communications Limited
+EDELWEISS.BO	Edelweiss Financial Services Limited
+EDELWEISS.NS	Edelweiss Financial Services Limited
+NATCOPHARM.BO	NATCO Pharma Limited
+SUNTECK.BO	Sunteck Realty Limited
+NATCOPHARM.NS	NATCO Pharma Limited
+SUNTECK.NS	Sunteck Realty Limited
+SKFINDIA.BO	SKF India Limited
+SKFINDIA.NS	SKF India Limited
+CREDITACC.NS	CreditAccess Grameen Limited
+APLLTD.BO	Alembic Pharmaceuticals Limited
+APLLTD.NS	Alembic Pharmaceuticals Limited
+SUNDRMFAST.NS	Sundram Fasteners Limited
+SUNDRMFAST.BO	Sundram Fasteners Limited
+MGL.BO	Mahanagar Gas Limited
+MGL.NS	Mahanagar Gas Limited
+CENTRALBK.NS	Central Bank of India
+CENTRALBK.BO	Central Bank of India
+FORTIS.BO	Fortis Healthcare Limited
+HEXAWARE.NS	Hexaware Technologies Limited
+HEXAWARE.BO	Hexaware Technologies Limited
+FORTIS.NS	Fortis Healthcare Limited
+NIITTECH.NS	NIIT Technologies Limited
+NIITTECH.BO	NIIT Technologies Limited
+SOLARINDS.NS	Solar Industries India Limited
+SOLARINDS.BO	Solar Industries India Limited
+SJVN.BO	SJVN Limited
+SJVN.NS	SJVN Limited
+GODREJAGRO.NS	Godrej Agrovet Limited
+GODREJAGRO.BO	Godrej Agrovet Limited
+VINATIORGA.BO	Vinati Organics Limited
+VINATIORGA.NS	Vinati Organics Limited
+CESC.NS	CESC Limited
+GLENMARK.BO	Glenmark Pharmaceuticals Limited
+CESC.BO	CESC Limited
+GLENMARK.NS	Glenmark Pharmaceuticals Limited
+SHRIRAMCIT.NS	Shriram City Union Finance Limited
+PVR.BO	PVR Limited
+SHRIRAMCIT.BO	Shriram City Union Finance Limited
+PVR.NS	PVR Limited
+CHOLAHLDNG.NS	Cholamandalam Financial Holdings Limited
+APOLLOTYRE.NS	Apollo Tyres Limited
+APOLLOTYRE.BO	Apollo Tyres Limited
+JKCEMENT.NS	J.K. Cement Limited
+JKCEMENT.BO	J.K. Cement Limited
+HATSUN.NS	Hatsun Agro Product Limited
+MINDAIND.BO	Minda Industries Limited
+HATSUN.BO	Hatsun Agro Product Limited
+TIINDIA.NS	Tube Investments of India Limited
+TIINDIA.BO	Tube Investments of India Limited
+MINDAIND.NS	Minda Industries Limited
+VGUARD.NS	V-Guard Industries Limited
+VGUARD.BO	V-Guard Industries Limited
+AKZOINDIA.NS	Akzo Nobel India Limited
+AKZOINDIA.BO	Akzo Nobel India Limited
+ITI.BO	ITI Limited
+ITI.NS	ITI Limited
+JUBILANT.NS	Jubilant Life Sciences Limited
+JUBILANT.BO	Jubilant Life Sciences Limited
+AJANTPHARM.NS	Ajanta Pharma Limited
+AJANTPHARM.BO	Ajanta Pharma Limited
+NATIONALUM.BO	National Aluminium Company Limited
+NATIONALUM.NS	National Aluminium Company Limited
+ZYDUSWELL.NS	Zydus Wellness Limited
+ZYDUSWELL.BO	Zydus Wellness Limited
+KAJARIACER.NS	Kajaria Ceramics Limited
+KAJARIACER.BO	Kajaria Ceramics Limited
+AVANTIFEED.NS	Avanti Feeds Limited
+EIHOTEL.NS	EIH Limited
+AVANTI.BO	Avanti Feeds Limited
+ASTERDM.BO	Aster DM Healthcare Limited
+ASTERDM.NS	Aster DM Healthcare Limited
+EIHOTEL.BO	EIH Limited
+UNITEDBNK.NS	United Bank of India
+UNITEDBNK.BO	United Bank of India
+PNBHOUSING.NS	PNB Housing Finance Limited
+PNBHOUSING.BO	PNB Housing Finance Limited
+FLFL.BO	Future Lifestyle Fashions Limited
+NLCINDIA.NS	NLC India Limited
+NLCINDIA.BO	NLC India Limited
+TTKPRESTIG.NS	TTK Prestige Limited
+TTKPRESTIG.BO	TTK Prestige Limited
+FLFL.NS	Future Lifestyle Fashions Limited
+SYMPHONY.BO	Symphony Limited
+SYMPHONY.NS	Symphony Limited
+KEC.BO	KEC International Limited
+JMFINANCIL.NS	JM Financial Limited
+KEC.NS	KEC International Limited
+JMFINANCIL.BO	JM Financial Limited
+BLUESTARCO.NS	Blue Star Limited
+BLUESTARCO.BO	Blue Star Limited
+MRPL.BO	Mangalore Refinery and Petrochemicals Limited
+HUDCO.BO	Housing and Urban Development Corporation Limited
+HUDCO.NS	Housing and Urban Development Corporation Limited
+KIOCL.NS	KIOCL Limited
+MRPL.NS	Mangalore Refinery and Petrochemicals Limited
+RITES.NS	RITES Limited
+KIOCL.BO	KIOCL Limited
+QUESS.NS	Quess Corp Limited
+QUESS.BO	Quess Corp Limited
+SPANDANA.NS	Spandana Sphoorty Financial Limited
+ESCORTS.BO	Escorts Limited
+ESCORTS.NS	Escorts Limited
+SYNDIBANK.NS	Syndicate Bank
+SYNDIBANK.BO	Syndicate Bank
+BBTC.BO	The Bombay Burmah Trading Corporation, Limited
+BBTC.NS	The Bombay Burmah Trading Corporation, Limited
+PGHL.NS	Procter & Gamble Health Limited
+ORIENTBANK.BO	Oriental Bank of Commerce
+ORIENTBANK.NS	Oriental Bank of Commerce
+SIS.BO	Security and Intelligence Services (India) Limited
+SIS.NS	Security and Intelligence Services (India) Limited
+METROPOLIS.NS	Metropolis Healthcare Limited
+GODFRYPHLP.NS	Godfrey Phillips India Limited
+GODFRYPHLP.BO	Godfrey Phillips India Limited
+CHALET.NS	Chalet Hotels Limited
+KRBL.BO	KRBL Limited
+KRBL.NS	KRBL Limited
+NH.BO	Narayana Hrudayalaya Limited
+NH.NS	Narayana Hrudayalaya Limited
+FINOLEXIND.BO	Finolex Industries Limited
+FINPIPE.NS	Finolex Industries Ltd
+TIMKEN.NS	Timken India Limited
+TIMKEN.BO	Timken India Limited
+AEGISCHEM.NS	Aegis Logistics Limited
+NBCC.NS	NBCC (India) Limited
+NBCC.BO	NBCC (India) Limited
+AEGISLOG.BO	Aegis Logistics Limited
+GRINDWELL.BO	Grindwell Norton Limited
+ERIS.NS	Eris Lifesciences Limited
+GRINDWELL.NS	Grindwell Norton Limited
+ERIS.BO	Eris Lifesciences Limited
+VSTIND.NS	VST Industries Limited
+ASTRAZEN.BO	AstraZeneca Pharma India Limited
+ASTRAZEN.NS	AstraZeneca Pharma India Limited
+VSTIND.BO	VST Industries Limited
+KALPATPOWR.BO	Kalpataru Power Transmission Limited
+MAHINDCIE.BO	Mahindra CIE Automotive Limited
+MAHINDCIE.NS	Mahindra CIE Automotive Limited
+KALPATPOWR.NS	Kalpataru Power Transmission Limited
+CHAMBLFERT.BO	Chambal Fertilisers and Chemicals Limited
+SPICEJET.NS	SpiceJet Limited
+SPICEJET.BO	SpiceJet Limited
+CHAMBLFERT.NS	Chambal Fertilisers and Chemicals Limited
+ENGINERSIN.BO	Engineers India Limited
+ENGINERSIN.NS	Engineers India Limited
+SFL.BO	Sheela Foam Limited
+INDIANB.BO	Indian Bank
+INDIANB.NS	Indian Bank
+SFL.NS	Sheela Foam Limited
+FINCABLES.BO	Finolex Cables Limited
+FINCABLES.NS	Finolex Cables Limited
+VIPIND.NS	VIP Industries Limited
+VIPIND.BO	VIP Industries Limited
+GRAPHITE.BO	Graphite India Limited
+DCMSHRIRAM.NS	DCM Shriram Limited
+GRAPHITE.NS	Graphite India Limited
+DCMSHRIRAM.BO	DCM Shriram Limited
+INDIAMART.NS	IndiaMART InterMESH Limited
+CARBORUNIV.NS	Carborundum Universal Limited
+CARBORUNIV.BO	Carborundum Universal Limited
+VARROC.NS	Varroc Engineering Limited
+DBL.NS	Dilip Buildcon Limited
+DBL.BO	Dilip Buildcon Limited
+FINEORG.NS	Fine Organic Industries Limited
+LINDEINDIA.BO	Linde India Limited
+LINDEINDIA.NS	Linde India Limited
+VTL.NS	Vardhman Textiles Limited
+ESSELPRO.BO	Essel Propack Limited
+VTL.BO	Vardhman Textiles Limited
+ESSELPACK.NS	Essel Propack Limited
+BDL.NS	Bharat Dynamics Limited
+INDIGRID.BO	India Grid Trust
+WESTLIFE.NS	Westlife Development Limited
+DCBBANK.BO	DCB Bank Limited
+DCBBANK.NS	DCB Bank Limited
+WESTLIFE.BO	Westlife Development Limited
+JYOTHYLAB.BO	Jyothy Laboratories Limited
+JYOTHYLAB.NS	Jyothy Laboratories Limited
+DELTACORP.NS	Delta Corp Limited
+DELTACORP.BO	Delta Corp Limited
+CENTURYTEX.BO	Century Textiles and Industries Limited
+CENTURYTEX.NS	Century Textiles and Industries Limited
+PERSISTENT.BO	Persistent Systems Limited
+PERSISTENT.NS	Persistent Systems Limited
+GALAXYSURF.NS	Galaxy Surfactants Limited
+GALAXYSURF.BO	Galaxy Surfactants Limited
+COCHINSHIP.BO	Cochin Shipyard Limited
+COCHINSHIP.NS	Cochin Shipyard Limited
+CANFINHOME.BO	Can Fin Homes Limited
+CANFINHOME.NS	Can Fin Homes Limited
+STRTECH.BO	Sterlite Technologies Limited
+STRTECH.NS	Sterlite Technologies Limited
+BLUEDART.NS	Blue Dart Express Limited
+BLUEDART.BO	Blue Dart Express Limited
+TATAELXSI.BO	Tata Elxsi Limited
+JCHAC.BO	Johnson Controls - Hitachi Air Conditioning India Limited
+TATAELXSI.NS	Tata Elxsi Limited
+RATNAMANI.NS	Ratnamani Metals & Tubes Limited
+DEEPAKNI.BO	Deepak Nitrite Limited
+DEEPAKNTR.NS	Deepak Nitrite Limited
+RATNAMANI.BO	Ratnamani Metals & Tubes Limited
+JCHAC.NS	Johnson Controls - Hitachi Air Conditioning India Limited
+SWSOLAR.NS	Sterling and Wilson Solar Limited
+ASAHIINDIA.NS	Asahi India Glass Limited
+RVNL.NS	Rail Vikas Nigam Limited
+ASAHIINDIA.BO	Asahi India Glass Limited
+ANDHRABANK.NS	Andhra Bank
+PNCINFRA.BO	PNC Infratech Limited
+PNCINFRA.NS	PNC Infratech Limited
+ANDHRABANK.BO	Andhra Bank
+GEPIL.BO	GE Power India Limited
+GEPIL.NS	GE Power India Limited
+WELSPUNIND.NS	Welspun India Limited
+WELSPUNIND.BO	Welspun India Limited
+LEMONTREE.NS	Lemon Tree Hotels Limited
+NAVINFLUOR.NS	Navin Fluorine International Limited
+NAVINFLUOR.BO	Navin Fluorine International Limited
+BIRLACORPN.BO	Birla Corporation Limited
+BIRLACORPN.NS	Birla Corporation Limited
+CYIENT.BO	Cyient Limited
+CYIENT.NS	Cyient Limited
+KARURVYSYA.BO	The Karur Vysya Bank Limited
+KARURVYSYA.NS	The Karur Vysya Bank Limited
+APLAPOLLO.BO	APL Apollo Tubes Limited
+APLAPOLLO.NS	APL Apollo Tubes Limited
+FCONSUMER.BO	Future Consumer Limited
+FCONSUMER.NS	Future Consumer Limited
+KPRMILL.BO	K.P.R. Mill Limited
+IIFL.BO	IIFL Holdings Limited
+KPRMILL.NS	K.P.R. Mill Limited
+IIFL.NS	IIFL Holdings Limited
+DIXON.NS	Dixon Technologies (India) Limited
+DIXON.BO	Dixon Technologies (India) Limited
+REDINGTON.NS	Redington (India) Limited
+REDINGTON.BO	Redington (India) Limited
+BRIGADE.BO	Brigade Enterprises Limited
+GESHIP.NS	The Great Eastern Shipping Company Limited
+GESHIP.BO	The Great Eastern Shipping Company Limited
+BRIGADE.NS	Brigade Enterprises Limited
+HINDCOPPER.BO	Hindustan Copper Limited
+BASF.BO	BASF India Limited
+BASF.NS	BASF India Limited
+SUNCLAYLTD.BO	Sundaram-Clayton Limited
+HINDCOPPER.NS	Hindustan Copper Limited
+GPPL.BO	Gujarat Pipavav Port Limited
+RAYMOND.BO	Raymond Limited
+GPPL.NS	Gujarat Pipavav Port Limited
+RAYMOND.NS	Raymond Limited
+RADICO.BO	Radico Khaitan Limited
+RADICO.NS	Radico Khaitan Limited
+ELGIEQUIP.NS	ELGI Equipments Limited
+TEAMLEASE.BO	TeamLease Services Limited
+TEAMLEASE.NS	TeamLease Services Limited
+HEG.NS	HEG Limited
+HEG.BO	HEG Limited
+ELGIEQUIP.BO	ELGI Equipments Limited
+SUNCLAYLTD.NS	Sundaram-Clayton Limited
+UJJIVAN.NS	Ujjivan Financial Services Limited
+UJJIVAN.BO	Ujjivan Financial Services Limited
+CEATLTD.NS	CEAT Limited
+CEATLTD.BO	CEAT Limited
+ZENSARTECH.NS	Zensar Technologies Limited
+GULFOILLUB.NS	Gulf Oil Lubricants India Limited
+ZENSARTECH.BO	Zensar Technologies Limited
+GULFOILLUB.BO	Gulf Oil Lubricants India Limited
+HEIDELBERG.BO	HeidelbergCement India Limited
+HEIDELBERG.NS	HeidelbergCement India Limited
+BALRAMCHIN.NS	Balrampur Chini Mills Limited
+BALRAMCHIN.BO	Balrampur Chini Mills Limited
+ORIENTELEC.NS	Orient Electric Ltd.
+BEML.BO	BEML Limited
+BEML.NS	BEML Limited
+LAURUSLABS.NS	Laurus Labs Limited
+LAURUSLABS.BO	Laurus Labs Limited
+IRCON.NS	Ircon International Limited
+EIDPARRY.NS	E.I.D.- Parry (India) Limited
+EIDPARRY.BO	E.I.D.- Parry (India) Limited
+MOIL.BO	MOIL Limited
+MOIL.NS	MOIL Limited
+GET&D.NS	GE T&D India Limited
+SUVEN.BO	Suven Life Sciences Limited
+GET&D.BO	GE T&D India Limited
+SUVEN.NS	Suven Life Sciences Limited
+SOBHA.BO	Sobha Limited
+SOBHA.NS	Sobha Limited
+STARCEMENT.NS	Star Cement Limited
+STARCEMENT.BO	Star Cement Limited
+TVBRDCST.BO	TV Broadcast Limited
+TVBRDCST.NS	TV Broadcast Limited
+TCNSBRANDS.NS	TCNS Clothing Co. Limited
+WELCORP.NS	Welspun Corp Limited
+IBREALEST.NS	Indiabulls Real Estate Limited
+IBREALEST.BO	Indiabulls Real Estate Limited
+WELCORP.BO	Welspun Corp Limited
+KEI.BO	KEI Industries Limited
+BAJAJELEC.BO	Bajaj Electricals Limited
+KEI.NS	KEI Industries Limited
+BAJAJELEC.NS	Bajaj Electricals Limited
+INOXLEISUR.BO	INOX Leisure Limited
+FDC.NS	FDC Limited
+INOXLEISUR.NS	INOX Leisure Limited
+FDC.BO	FDC Limited
+KNRCON.BO	KNR Constructions Limited
+RAIN.NS	Rain Industries Limited
+KNRCON.NS	KNR Constructions Limited
+CENTURYPLY.NS	Century Plyboards (India) Limited
+CENTURYPLY.BO	Century Plyboards (India) Limited
+EQUITAS.BO	Equitas Holdings Limited
+RAIN.BO	Rain Industries Limited
+EQUITAS.NS	Equitas Holdings Limited
+FMGOETZE.NS	Federal-Mogul Goetze (India) Limited
+FMGOETZE.BO	Federal-Mogul Goetze (India) Limited
+INFIBEAM.BO	Infibeam Incorporation Limited
+KAMAHOLD.BO	KAMA Holdings Limited
+CSBBANK.NS	CSB Bank Limited
+LAXMIMACH.NS	Lakshmi Machine Works Limited
+LAXMIMACH.BO	Lakshmi Machine Works Limited
+JUSTDIAL.NS	Just Dial Limited
+JUSTDIAL.BO	Just Dial Limited
+AMBER.BO	Amber Enterprises India Limited
+INFIBEAM.NS	Infibeam Incorporation Limited
+AMBER.NS	Amber Enterprises India Limited
+JKLAKSHMI.BO	JK Lakshmi Cement Limited
+JKLAKSHMI.NS	JK Lakshmi Cement Limited
+HATHWAY.BO	Hathway Cable and Datacom Limited
+BAJAJCON.NS	Bajaj Consumer Care Limited
+HATHWAY.NS	Hathway Cable and Datacom Limited
+NCC.NS	NCC Limited
+NCC.BO	NCC Limited
+RALLIS.NS	Rallis India Limited
+CERA.BO	Cera Sanitaryware Limited
+CERA.NS	Cera Sanitaryware Limited
+RALLIS.BO	Rallis India Limited
+JBCHEPHARM.NS	J. B. Chemicals & Pharmaceuticals Limited
+JBCHEPHARM.BO	J. B. Chemicals & Pharmaceuticals Limited
+TRIDENT.NS	Trident Limited
+TRIDENT.BO	Trident Limited
+STAR.BO	Strides Shasun Limited
+STAR.NS	Strides Shasun Limited
+PRSMJOHNSN.NS	Prism Johnson Limited
+SONATSOFTW.BO	Sonata Software Limited
+SONATSOFTW.NS	Sonata Software Limited
+TATASTLBSL.NS	Tata Steel BSL Limited
+LUXIND.BO	Lux Industries Limited
+LUXIND.NS	Lux Industries Limited
+SHOPERSTOP.BO	Shoppers Stop Limited
+SHOPERSTOP.NS	Shoppers Stop Limited
+GUJALKALI.BO	Gujarat Alkalies and Chemicals Limited
+GUJALKALI.NS	Gujarat Alkalies and Chemicals Limited
+TRITURBINE.NS	Triveni Turbine Limited
+KSCL.NS	Kaveri Seed Company Limited
+KSCL.BO	Kaveri Seed Company Limited
+TRITURBINE.BO	Triveni Turbine Limited
+GRANULES.BO	Granules India Limited
+GRANULES.NS	Granules India Limited
+GREAVESCOT.BO	Greaves Cotton Limited
+GREAVESCOT.NS	Greaves Cotton Limited
+MHRIL.NS	Mahindra Holidays & Resorts India Limited
+MHRIL.BO	Mahindra Holidays & Resorts India Limited
+ASHOKA.NS	Ashoka Buildcon Limited
+TECHNOE.NS	Techno Electric & Engineering Company Limited
+ASHOKA.BO	Ashoka Buildcon Limited
+VMART.NS	V-Mart Retail Limited
+MIDHANI.NS	Mishra Dhatu Nigam Limited
+MMTC.NS	MMTC Limited
+VMART.BO	V-Mart Retail Limited
+MMTC.BO	MMTC Limited
+FSL.BO	Firstsource Solutions Limited
+FSL.NS	Firstsource Solutions Limited
+MAHLOG.NS	Mahindra Logistics Limited
+MAHLOG.BO	Mahindra Logistics Limited
+GSFC.BO	Gujarat State Fertilizers & Chemicals Limited
+GSFC.NS	Gujarat State Fertilizers & Chemicals Limited
+SCI.NS	The Shipping Corporation of India Limited
+SCI.BO	The Shipping Corporation of India Limited
+SUDARSCHEM.NS	Sudarshan Chemical Industries Limited
+SUDARSCHEM.BO	Sudarshan Chemical Industries Limited
+ORIENTREF.NS	Orient Refractories Limited
+ORIENTREF.BO	Orient Refractories Limited
+SUPRAJIT.BO	Suprajit Engineering Limited
+SUPRAJIT.NS	Suprajit Engineering Limited
+OMAXE.NS	Omaxe Limited
+OMAXE.BO	Omaxe Limited
+TCIEXP.NS	TCI Express Limited
+JINDALSAW.NS	Jindal Saw Limited
+JINDALSAW.BO	Jindal Saw Limited
+TCIEXP.BO	TCI Express Limited
+IFBIND.BO	IFB Industries Limited
+SHARDACROP.NS	Sharda Cropchem Limited
+IFBIND.NS	IFB Industries Limited
+SHARDACROP.BO	Sharda Cropchem Limited
+VAIBHAVGBL.NS	Vaibhav Global Limited
+JMCPROJECT.BO	JMC Projects (India) Limited
+VAIBHAVGBL.BO	Vaibhav Global Limited
+IRB.NS	IRB Infrastructure Developers Limited
+IRB.BO	IRB Infrastructure Developers Limited
+ISGEC.BO	Isgec Heavy Engineering Limited
+GMM.BO	GMM Pfaudler Limited
+GMMPFAUDLR.NS	GMM Pfaudler Limited
+RCF.BO	Rashtriya Chemicals and Fertilizers Limited
+HSCL.NS	Himadri Speciality Chemical Limited
+HSCL.BO	Himadri Speciality Chemical Limited
+RCF.NS	Rashtriya Chemicals and Fertilizers Limited
+GARFIBRES.NS	Garware Technical Fibres Limited
+FACT.BO	The Fertilisers And Chemicals Travancore Limited
+CCL.NS	CCL Products (India) Limited
+FACT.NS	The Fertilisers And Chemicals Travancore Limited
+NETWORK.NS	Network Media & Investments Limited
+CCL.BO	CCL Products (India) Limited
+BHARATRAS.BO	Bharat Rasayan Limited
+WOCKPHARMA.BO	Wockhardt Limited
+WOCKPHARMA.NS	Wockhardt Limited
+NETWORK.BO	Network Media & Investments Limited
+BHARATRAS.NS	Bharat Rasayan Limited
+GNFC.BO	Gujarat Narmada Valley Fertilizers & Chemicals Limited
+MAHSEAMLES.BO	Maharashtra Seamless Limited
+MAHSEAMLES.NS	Maharashtra Seamless Limited
+GNFC.NS	Gujarat Narmada Valley Fertilizers & Chemicals Limited
+ECLERX.NS	eClerx Services Limited
+ECLERX.BO	eClerx Services Limited
+ALLCARGO.NS	Allcargo Logistics Limited
+ALLCARGO.BO	Allcargo Logistics Limited
+KPITTECH.NS	KPIT Technologies Limited
+VENKYS.BO	Venky's (India) Limited
+VENKEYS.NS	Venky's (India) Limited
+VRLLOG.BO	VRL Logistics Limited
+VRLLOG.NS	VRL Logistics Limited
+RESPONIND.NS	Responsive Industries Limited
+RESPONIND.BO	Responsive Industries Limited
+GRSE.NS	Garden Reach Shipbuilders & Engineers Limited
+THOMASCOOK.BO	Thomas Cook (India) Limited
+VESUVIUS.BO	Vesuvius India Limited
+ALKYLAMINE.BO	Alkyl Amines Chemicals Limited
+ALKYLAMINE.NS	Alkyl Amines Chemicals Limited
+DISHTV.BO	Dish TV India Limited
+DISHTV.NS	Dish TV India Limited
+THOMASCOOK.NS	Thomas Cook (India) Limited
+VESUVIUS.NS	Vesuvius India Limited
+INDIACEM.BO	The India Cements Limited
+INDIACEM.NS	The India Cements Limited
+KSB.NS	KSB Limited
+ARVINDFASN.NS	Arvind Fashions Limited
+DBCORP.NS	D. B. Corp Limited
+GOODYEAR.BO	Goodyear India Limited
+DBCORP.BO	D. B. Corp Limited
+SHILPAMED.BO	Shilpa Medicare Limited
+MINDACORP.BO	Minda Corporation Limited
+BSE.NS	BSE Limited
+MINDACORP.NS	Minda Corporation Limited
+JKPAPER.BO	JK Paper Limited
+JKPAPER.NS	JK Paper Limited
+HFCL.NS	Himachal Futuristic Communications Limited
+HFCL.BO	Himachal Futuristic Communications Limited
+FORBESCO.BO	Forbes & Company Limited
+GRNLAMIND.BO	Greenlam Industries Limited
+KENNAMET.BO	Kennametal India Limited
+KENNAMET.NS	Kennametal India Limited
+CAPPL.BO	Caplin Point Laboratories Limited
+CAPLIPOINT.NS	Caplin Point Laboratories Limited
+GREENLAM.NS	Greenlam Industries Limited
+DEN.NS	DEN Networks Limited
+JTEKTINDIA.NS	JTEKT India Limited
+SADBHAV.NS	Sadbhav Engineering Limited
+KIRLOSENG.NS	Kirloskar Oil Engines Limited
+SADBHAV.BO	Sadbhav Engineering Limited
+BALMLAWRIE.BO	Balmer Lawrie & Co. Limited
+BALMLAWRIE.NS	Balmer Lawrie & Co. Limited
+KIRLOSENG.BO	Kirloskar Oil Engines Limited
+NAVNETEDUL.NS	Navneet Education Limited
+NAVNETEDUL.BO	Navneet Education Limited
+GMDCLTD.BO	Gujarat Mineral Development Corporation Limited
+KTKBANK.BO	The Karnataka Bank Limited
+KTKBANK.NS	The Karnataka Bank Limited
+DEN.BO	DEN Networks Limited
+GMDCLTD.NS	Gujarat Mineral Development Corporation Limited
+TCI.NS	Transport Corporation of India Limited
+TATASTLLP.NS	Tata Steel Long Products Limited
+MAHLIFE.BO	Mahindra Lifespace Developers Limited
+MAHLIFE.NS	Mahindra Lifespace Developers Limited
+TCI.BO	Transport Corporation of India Limited
+PRAJIND.NS	Praj Industries Limited
+PRAJIND.BO	Praj Industries Limited
+INGERRAND.BO	Ingersoll-Rand (India) Limited
+ESABINDIA.BO	ESAB India Limited
+ESABINDIA.NS	ESAB India Limited
+INGERRAND.NS	Ingersoll-Rand (India) Limited
+DHANUKA.NS	Dhanuka Agritech Limited
+FSC.NS	Future Supply Chain Solutions Limited
+DIAMONDYD.NS	Prataap Snacks Limited
+FSC.BO	Future Supply Chain Solutions Limited
+GREENPLY.NS	Greenply Industries Limited
+GREENPLY.BO	Greenply Industries Limited
+BSOFT.NS	Birlasoft Limited
+DHANUKA.BO	Dhanuka Agritech Limited
+DIAMONDYD.BO	Prataap Snacks Limited
+JSL.BO	Jindal Stainless Limited
+JSL.NS	Jindal Stainless Limited
+NILKAMAL.BO	Nilkamal Limited
+NILKAMAL.NS	Nilkamal Limited
+INTELLECT.BO	Intellect Design Arena Limited
+HAWKINCOOK.BO	Hawkins Cookers Limited
+KOLTEPATIL.BO	Kolte-Patil Developers Limited
+INTELLECT.NS	Intellect Design Arena Limited
+KOLTEPATIL.NS	Kolte-Patil Developers Limited
+PAPERPROD.BO	Huhtamaki PPL Limited
+JSLHISAR.NS	Jindal Stainless (Hisar) Limited
+PAPERPROD.NS	Huhtamaki PPL Limited
+JAICORPLTD.BO	Jai Corp Limited
+JAICORPLTD.NS	Jai Corp Limited
+AHLUCONT.BO	Ahluwalia Contracts (India) Limited
+JSLHISAR.BO	Jindal Stainless (Hisar) Limited
+AHLUCONT.NS	Ahluwalia Contracts (India) Limited
+POLYMED.BO	Poly Medicure Limited
+FAIRCHEM.NS	Fairchem Speciality Limited
+FAIRCHEM.BO	Fairchem Speciality Limited
+JKTYRE.NS	JK Tyre & Industries Limited
+JKTYRE.BO	JK Tyre & Industries Limited
+SOUTHBANK.NS	The South Indian Bank Limited
+JAMNAAUTO.NS	Jamna Auto Industries Limited
+SOUTHBANK.BO	The South Indian Bank Limited
+SEQUENT.NS	Sequent Scientific Limited
+NOCIL.BO	NOCIL Limited
+NOCIL.NS	NOCIL Limited
+JAMNAAUTO.BO	Jamna Auto Industries Limited
+SUBROS.NS	Subros
+SUBROS.BO	Subros
+JAGRAN.NS	Jagran Prakashan Limited
+CHENNPETRO.NS	Chennai Petroleum Corporation Limited
+CHENNPETRO.BO	Chennai Petroleum Corporation Limited
+INDOSTAR.NS	IndoStar Capital Finance Limited
+JAGRAN.BO	Jagran Prakashan Limited
+GABRIEL.NS	Gabriel India Limited
+GABRIEL.BO	Gabriel India Limited
+TRIVENI.NS	Triveni Engineering & Industries Limited
+TRIVENI.BO	Triveni Engineering & Industries Limited
+SEQUENT.BO	Sequent Scientific Limited
+GHCL.BO	GHCL Limited
+GHCL.NS	GHCL Limited
+PSPPROJECT.NS	PSP Projects Limited
+TATAMETALI.BO	Tata Metaliks Limited
+TATAMETALI.NS	Tata Metaliks Limited
+PSPPROJECT.BO	PSP Projects Limited
+RENUKA.NS	Shree Renuka Sugars Limited
+RENUKA.BO	Shree Renuka Sugars Limited
+TATACOFFEE.NS	Tata Coffee Limited
+TATACOFFEE.BO	Tata Coffee Limited
+SHILPAMED.NS	Shilpa Medicare Limited
+BOMDYEING.BO	The Bombay Dyeing and Manufacturing Company Limited
+BOMDYEING.NS	The Bombay Dyeing and Manufacturing Company Limited
+HGINFRA.NS	H.G. Infra Engineering Limited
+JMCPROJECT.NS	JMC Projects (India) Limited
+POLYPLEX.NS	Polyplex Corporation Limited
+INDOCO.NS	Indoco Remedies Limited
+INDOCO.BO	Indoco Remedies Limited
+POLYPLEX.BO	Polyplex Corporation Limited
+PTC.BO	PTC India Limited
+PTC.NS	PTC India Limited
+RAMCOIND.NS	Ramco Industries Limited
+RAMCOIND.BO	Ramco Industries Limited
+SHK.BO	S H Kelkar and Company Limited
+MAITHANALL.BO	Maithan Alloys Limited
+J&KBANK.BO	The Jammu and Kashmir Bank Limited
+J&KBANK.NS	The Jammu and Kashmir Bank Limited
+MAITHANALL.NS	Maithan Alloys Limited
+HERITGFOOD.NS	Heritage Foods Limited
+SHK.NS	S H Kelkar and Company Limited
+RUPA.NS	Rupa & Company Limited
+HERITGFOOD.BO	Heritage Foods Limited
+RUPA.BO	Rupa & Company Limited
+SCHNEIDER.BO	Schneider Electric Infrastructure Limited
+SCHNEIDER.NS	Schneider Electric Infrastructure Limited
+TIDEWATER.BO	Tide Water Oil Co. (India), Ltd.
+TIDEWATER.NS	Tide Water Oil Co. (India), Ltd.
+ATFL.NS	Agro Tech Foods Limited
+HCC.NS	Hindustan Construction Company Limited
+HCC.BO	Hindustan Construction Company Limited
+BANARISUG.BO	Bannari Amman Sugars Limited
+ATFL.BO	Agro Tech Foods Limited
+TINPLATE.BO	The Tinplate Company Of India Limited
+TINPLATE.NS	The Tinplate Company Of India Limited
+GAEL.NS	Gujarat Ambuja Exports Limited
+BANARISUG.NS	Bannari Amman Sugars Limited
+GAEL.BO	Gujarat Ambuja Exports Limited
+ORIENTCEM.NS	Orient Cement Limited
+UFLEX.BO	Uflex Limited
+ORIENTCEM.BO	Orient Cement Limited
+UFLEX.NS	Uflex Limited
+VALIANTORG.BO	Valiant Organics Limited
+SUPPETRO.BO	Supreme Petrochem Limited
+SHRIPISTON.NS	Shriram Pistons & Rings Limited
+SUPPETRO.NS	Supreme Petrochem Limited
+GAYAPROJ.NS	Gayatri Projects Limited
+HIKAL.BO	Hikal Limited
+HIKAL.NS	Hikal Limited
+TAKE.BO	TAKE Solutions Limited
+TVTODAY.NS	T.V. Today Network Limited
+TAKE.NS	TAKE Solutions Limited
+DHAMPURSUG.BO	Dhampur Sugar Mills Limited
+BLISSGVS.NS	Bliss Gvs Pharma Limited
+BLISSGVS.BO	Bliss Gvs Pharma Limited
+DHAMPURSUG.NS	Dhampur Sugar Mills Limited
+MAGMA.NS	Magma Fincorp Limited
+GAYAPROJ.BO	Gayatri Projects Limited
+APARINDS.BO	Apar Industries Limited
+PSB.NS	Punjab & Sind Bank
+APARINDS.NS	Apar Industries Limited
+TVTODAY.BO	T.V. Today Network Limited
+MAGMA.BO	Magma Fincorp Limited
+PSB.BO	Punjab & Sind Bank
+BENGALASM.BO	Bengal & Assam Company Limited
+IIFLSEC.NS	IIFL Securities Limited
+BOROSIL.NS	Borosil Glass Works Limited
+BOROSIL.BO	Borosil Glass Works Limited
+SANDHAR.NS	Sandhar Technologies Limited
+WSTCSTPAPR.BO	West Coast Paper Mills Limited
+WHEELS.NS	Wheels India Limited
+WSTCSTPAPR.NS	West Coast Paper Mills Limited
+WHEELS.BO	Wheels India Limited
+FORCEMOT.NS	Force Motors Limited
+SUZLON.BO	Suzlon Energy Limited
+FORCEMOT.BO	Force Motors Limited
+SUZLON.NS	Suzlon Energy Limited
+MEGH.BO	Meghmani Organics Limited
+MEGH.NS	Meghmani Organics Limited
+SWARAJENG.BO	Swaraj Engines Limited
+SWARAJENG.NS	Swaraj Engines Limited
+PURVA.NS	Puravankara Limited
+PURVA.BO	Puravankara Limited
+SADBHIN.BO	Sadbhav Infrastructure Project Limited
+NEWGEN.BO	Newgen Software Technologies Limited
+SAFARI.NS	Safari Industries (India) Limited
+SADBHIN.NS	Sadbhav Infrastructure Project Limited
+GOCLCORP.BO	GOCL Corporation Limited
+SAFARIND.BO	Safari Industries (India) Limited
+NEWGEN.NS	Newgen Software Technologies Limited
+DFM.BO	DFM Foods Limited
+AARTIDRUGS.BO	Aarti Drugs Limited
+DFMFOODS.NS	DFM Foods Limited
+HIMATSEIDE.NS	Himatsingka Seide Limited
+AARTIDRUGS.NS	Aarti Drugs Limited
+HIMATSEIDE.BO	Himatsingka Seide Limited
+TIMETECHNO.NS	Time Technoplast Limited
+NIITLTD.NS	NIIT Limited
+NIITLTD.BO	NIIT Limited
+TIMETECHNO.BO	Time Technoplast Limited
+NFL.BO	National Fertilizers Limited
+GDL.NS	Gateway Distriparks Limited
+NFL.NS	National Fertilizers Limited
+GDL.BO	Gateway Distriparks Limited
+BALAMINES.BO	Balaji Amines Limited
+KIRIINDUS.BO	Kiri Industries Limited
+KIRIINDUS.NS	Kiri Industries Limited
+BALAMINES.NS	Balaji Amines Limited
+JINDWORLD.BO	Jindal Worldwide Limited
+PFOCUS.NS	Prime Focus Limited
+JINDWORLD.NS	Jindal Worldwide Limited
+TVSSRICHAK.NS	TVS Srichakra
+AUTOAXLES.NS	Automotive Axles Limited
+AUTOAXLES.BO	Automotive Axles Limited
+TVSSRICHAK.BO	TVS Srichakra
+CAPACITE.BO	Capacit'e Infraprojects Limited
+CAPACITE.NS	Capacit'e Infraprojects Limited
+INEOSSTYRO.NS	INEOS Styrolution India Limited
+INEOSSTYRO.BO	INEOS Styrolution India Limited
+PFOCUS.BO	Prime Focus Limited
+NBVENTURES.BO	Nava Bharat Ventures Limited
+NBVENTURES.NS	Nava Bharat Ventures Limited
+HGS.BO	Hinduja Global Solutions Limited
+HGS.NS	Hinduja Global Solutions Limited
+RKFORGE.NS	Ramkrishna Forgings Limited
+RKFORGE.BO	Ramkrishna Forgings Limited
+ENIL.BO	Entertainment Network (India) Limited
+APEX.BO	Apex Frozen Foods Limited
+APEX.NS	Apex Frozen Foods Limited
+ENIL.NS	Entertainment Network (India) Limited
+INDIANHUME.NS	The Indian Hume Pipe Company Limited
+INDIANHUME.BO	The Indian Hume Pipe Company Limited
+HONDAPOWER.NS	Honda Siel Power Products Limited
+VOLTAMP.NS	Voltamp Transformers Limited
+WELENT.BO	Welspun Enterprises Limited
+WELENT.NS	Welspun Enterprises Limited
+VOLTAMP.BO	Voltamp Transformers Limited
+HONDAPOWER.BO	Honda Siel Power Products Limited
+IONEXCHANG.BO	Ion Exchange (India) Limited
+PARAGMILK.NS	Parag Milk Foods Limited
+PARAGMILK.BO	Parag Milk Foods Limited
+KKCL.BO	Kewal Kiran Clothing Limited
+KKCL.NS	Kewal Kiran Clothing Limited
+LUMAXIND.BO	Lumax Industries Limited
+SOTL.NS	Savita Oil Technologies Limited
+SOTL.BO	Savita Oil Technologies Limited
+LUMAXIND.NS	Lumax Industries Limited
+GRAUWEIL.BO	Grauer & Weil (India) Limited
+SAGCEM.BO	Sagar Cements Limited
+SSWL.NS	Steel Strips Wheels Limited
+TNPL.BO	Tamil Nadu Newsprint and Papers Limited
+TNPL.NS	Tamil Nadu Newsprint and Papers Limited
+SAGCEM.NS	Sagar Cements Limited
+SSWL.BO	Steel Strips Wheels Limited
+SATIN.NS	Satin Creditcare Network Limited
+IPAPPM.NS	International Paper APPM Limited
+IPAPPM.BO	International Paper APPM Limited
+JKIL.NS	J. Kumar Infraprojects Limited
+JKIL.BO	J. Kumar Infraprojects Limited
+IFCI.NS	IFCI Limited
+IFCI.BO	IFCI Limited
+SATIN.BO	Satin Creditcare Network Limited
+JBMA.BO	JBM Auto Limited
+WABAG.NS	VA Tech Wabag Limited
+WABAG.BO	VA Tech Wabag Limited
+UNICHEMLAB.BO	Unichem Laboratories Limited
+JBMA.NS	JBM Auto Limited
+KIRLOSBROS.NS	Kirloskar Brothers Limited
+UNICHEMLAB.NS	Unichem Laboratories Limited
+KIRLOSBROS.BO	Kirloskar Brothers Limited
+IGARASHI.NS	Igarashi Motors India Limited
+IGARASHI.BO	Igarashi Motors India Limited
+GIPCL.NS	Gujarat Industries Power Company Limited
+GIPCL.BO	Gujarat Industries Power Company Limited
+JPPOWER.BO	Jaiprakash Power Ventures Limited
+VINDHYATEL.BO	Vindhya Telelinks Limited
+RELIGARE.NS	Religare Enterprises Limited
+FEL.BO	Future Enterprises Limited
+SIYSIL.NS	Siyaram Silk Mills Limited
+SIYSIL.BO	Siyaram Silk Mills Limited
+EXCELINDUS.NS	Excel Industries Limited
+VINDHYATEL.NS	Vindhya Telelinks Limited
+RELIGARE.BO	Religare Enterprises Limited
+KSL.BO	Kalyani Steels Limited
+EXCELINDUS.BO	Excel Industries Limited
+KSL.NS	Kalyani Steels Limited
+SOLARA.NS	Solara Active Pharma Sciences Limited
+PHILIPCARB.BO	Phillips Carbon Black Limited
+FEL.NS	Future Enterprises Limited
+PHILIPCARB.NS	Phillips Carbon Black Limited
+MAJESCO.NS	Majesco Limited
+VISHAL.NS	Vishal Fabrics Limited
+MJCO.BO	Majesco Limited
+VISHAL.BO	Vishal Fabrics Limited
+RANEHOLDIN.BO	Rane Holdings Limited
+RANEHOLDIN.NS	Rane Holdings Limited
+SESHAPAPER.BO	Seshasayee Paper and Boards Limited
+FELDVR.BO	Future Enterprises Limited
+ANANTRAJ.BO	Anant Raj Limited
+PRAKASH.BO	Prakash Industries Limited
+JPPOWER.NS	Jaiprakash Power Ventures Limited
+ARVIND.BO	Arvind Limited
+ARVIND.NS	Arvind Limited
+ANANTRAJ.NS	Anant Raj Limited
+FELDVR.NS	Future Enterprises Limited
+PRAKASH.NS	Prakash Industries Limited
+SANGHIIND.NS	Sanghi Industries Limited
+SESHAPAPER.NS	Seshasayee Paper and Boards Limited
+SANGHIIND.BO	Sanghi Industries Limited
+LGBBROSLTD.BO	L.G. Balakrishnan & Bros Limited
+LGBBROSLTD.NS	L.G. Balakrishnan & Bros Limited
+HIL.BO	HIL Limited
+HIL.NS	HIL Limited
+JINDALPOLY.NS	Jindal Poly Films Limited
+ICIL.NS	Indo Count Industries Limited
+ICIL.BO	Indo Count Industries Limited
+CAMLINFINE.BO	Camlin Fine Sciences Limited
+CAMLINFINE.NS	Camlin Fine Sciences Limited
+MASTEK.NS	Mastek Limited
+DCAL.NS	Dishman Carbogen Amcis Limited
+MASTEK.BO	Mastek Limited
+DCAL.BO	Dishman Carbogen Amcis Limited
+DALMIASUG.NS	Dalmia Bharat Sugar and Industries Limited
+DALMIASUG.BO	Dalmia Bharat Sugar and Industries Limited
+TANLA.BO	Tanla Solutions Limited
+TANLA.NS	Tanla Solutions Limited
+JINDALPOLY.BO	Jindal Poly Films Limited
+MSTCLTD.NS	MSTC Limited
+ITDCEM.BO	ITD Cementation India Limited
+ITDCEM.NS	ITD Cementation India Limited
+IOLCP.NS	IOL Chemicals and Pharmaceuticals Limited
+IOLCP.BO	IOL Chemicals and Pharmaceuticals Limited
+DREDGECORP.NS	Dredging Corporation of India Limited
+DREDGECORP.BO	Dredging Corporation of India Limited
+SOMANYCERA.BO	Somany Ceramics Limited
+NRBBEARING.BO	NRB Bearings Limited
+RPOWER.BO	Reliance Power Limited
+VSTTILLERS.NS	V.S.T. Tillers Tractors Limited
+VSTTILLERS.BO	V.S.T. Tillers Tractors Limited
+SOMANYCERA.NS	Somany Ceramics Limited
+GFLLIMITED.NS	GFL Limited
+KIRLFER.NS	Kirloskar Ferrous Industries Limited
+RPOWER.NS	Reliance Power Limited
+HCG.NS	HealthCare Global Enterprises Limited
+HCG.BO	HealthCare Global Enterprises Limited
+NRBBEARING.NS	NRB Bearings Limited
+INSECTICID.NS	Insecticides (India) Limited
+INSECTICID.BO	Insecticides (India) Limited
+KIRLFER.BO	Kirloskar Ferrous Industries Limited
+SURYAROSNI.NS	Surya Roshni Limited
+SURYAROSNI.BO	Surya Roshni Limited
+PCJEWELLER.BO	PC Jeweller Limited
+PCJEWELLER.NS	PC Jeweller Limited
+MAYURUNIQ.BO	Mayur Uniquoters Limited
+MAYURUNIQ.NS	Mayur Uniquoters Limited
+POWERMECH.BO	Power Mech Projects Limited
+POWERMECH.NS	Power Mech Projects Limited
+ACE.NS	Action Construction Equipment Limited
+SARDAEN.BO	Sarda Energy & Minerals Limited
+SARDAEN.NS	Sarda Energy & Minerals Limited
+CLNINDIA.BO	Clariant Chemicals (India) Limited
+CLNINDIA.NS	Clariant Chemicals (India) Limited
+MMFL.BO	MM Forgings Limited
+ACE.BO	Action Construction Equipment Limited
+GPIL.NS	Godawari Power & Ispat Limited
+GPIL.BO	Godawari Power & Ispat Limited
+MMFL.NS	MM Forgings Limited
+GALLISPAT.BO	Gallantt Ispat Limited
+DEEPAKFERT.NS	Deepak Fertilisers And Petrochemicals Corporation Limited
+DEEPAKFERT.BO	Deepak Fertilisers And Petrochemicals Corporation Limited
+BODALCHEM.BO	Bodal Chemicals Limited
+BODALCHEM.NS	Bodal Chemicals Limited
+FILATEX.BO	Filatex India Limited
+FILATEX.NS	Filatex India Limited
+GALLISPAT.NS	Gallantt Ispat Limited
+SRIPIPES.BO	Srikalahasthi Pipes Limited
+KIRLPNU.BO	Kirloskar Pneumatic Company Limited
+SASKEN.NS	Sasken Technologies Limited
+SRIPIPES.NS	Srikalahasthi Pipes Limited
+BEPL.BO	Bhansali Engineering Polymers Limited
+BEPL.NS	Bhansali Engineering Polymers Limited
+APCOTEXIND.BO	Apcotex Industries Limited
+NUCLEUS.NS	Nucleus Software Exports Limited
+APCOTEXIND.NS	Apcotex Industries Limited
+NUCLEUS.BO	Nucleus Software Exports Limited
+USHAMART.BO	Usha Martin Limited
+CESCVENT.NS	CESC Ventures Limited
+SASKEN.BO	Sasken Technologies Limited
+MONNETISPA.BO	Monnet Ispat and Energy Limited
+AIONJSW.NS	Monnet Ispat & Energy Limited
+RELINFRA.BO	Reliance Infrastructure Limited
+USHAMART.NS	Usha Martin Limited
+RELINFRA.NS	Reliance Infrastructure Limited
+TEJASNET.BO	Tejas Networks Limited
+TEJASNET.NS	Tejas Networks Limited
+GTPL.NS	GTPL Hathway Limited
+GTPL.BO	GTPL Hathway Limited
+PDSMFL.NS	PDS Multinational Fashions Limited
+ANDHRSUGAR.BO	The Andhra Sugars Limited
+ANDHRSUGAR.NS	The Andhra Sugars Limited
+MAXVIL.BO	Max Ventures and Industries Limited
+SHANKARA.NS	Shankara Building Products Limited
+INDNIPPON.BO	India Nippon Electricals Limited
+SHANKARA.BO	Shankara Building Products Limited
+MAXVIL.NS	Max Ventures and Industries Limited
+TEXRAIL.NS	Texmaco Rail & Engineering Limited
+TEXRAIL.BO	Texmaco Rail & Engineering Limited
+INDNIPPON.NS	India Nippon Electricals Limited
+KOKUYOCMLN.BO	Kokuyo Camlin Limited
+KCP.NS	The KCP Limited
+DOLLAR.NS	Dollar Industries Limited
+KCP.BO	The KCP Limited
+SMLISUZU.BO	SML Isuzu Limited
+COFFEEDAY.BO	Coffee Day Enterprises Limited
+COFFEEDAY.NS	Coffee Day Enterprises Limited
+PDSMFL.BO	PDS Multinational Fashions Limited
+SATIA.BO	Satia Industries Limited
+KOKUYOCMLN.NS	Kokuyo Camlin Limited
+SATIA.NS	Satia Industries Limited
+RTNPOWER.BO	RattanIndia Power Limited
+SMLISUZU.NS	SML Isuzu Limited
+RSYSTEMS.NS	R Systems International Limited
+RSYSTEMINT.BO	R Systems International Limited
+MANGLMCEM.BO	Mangalam Cement Limited
+MANGLMCEM.NS	Mangalam Cement Limited
+CONFIPET.BO	Confidence Petroleum India Limited
+CONFIPET.NS	Confidence Petroleum India Limited
+CIGNITITEC.NS	Cigniti Technologies Limited
+BAJAJHIND.NS	Bajaj Hindusthan Sugar Limited
+INOXWIND.BO	Inox Wind Limited
+CIGNITI.BO	Cigniti Technologies Limited
+INOXWIND.NS	Inox Wind Limited
+TIIL.BO	Technocraft Industries (India) Limited
+TIIL.NS	Technocraft Industries (India) Limited
+NXTDIGITAL.NS	Nxtdigital Limited
+BAJAJHIND.BO	Bajaj Hindusthan Sugar Limited
+RTNPOWER.NS	RattanIndia Power Limited
+KOVAI.BO	Kovai Medical Center and Hospital Limited
+GMBREW.NS	G.M.Breweries Limited
+KESORAMIND.BO	Kesoram Industries Limited
+GMBREW.BO	G.M.Breweries Limited
+BANCOINDIA.BO	Banco Products (India) Limited
+DAAWAT.BO	LT Foods Limited
+KESORAMIND.NS	Kesoram Industries Limited
+DAAWAT.NS	LT Foods Limited
+BANCOINDIA.NS	Banco Products (India) Limited
+TIRUMALCHM.BO	Thirumalai Chemicals Limited
+KITEX.BO	Kitex Garments Limited
+TIRUMALCHM.NS	Thirumalai Chemicals Limited
+KITEX.NS	Kitex Garments Limited
+SAREGAMA.NS	Saregama India Limited
+BLS.NS	BLS International Services Limited
+BLS.BO	BLS International Services Limited
+MARKSANS.BO	Marksans Pharma Limited
+MARKSANS.NS	Marksans Pharma Limited
+SAREGAMA.BO	Saregama India Limited
+TTKHLTCARE.NS	TTK Healthcare Limited
+KINGFA.NS	Kingfa Science & Technology (India) Limited
+TTKHEALTH.BO	TTK Healthcare Limited
+KINGFA.BO	Kingfa Science & Technology (India) Limited
+IMPAL.BO	India Motor Parts and Accessories Limited
+MOREPENLAB.NS	Morepen Laboratories Limited
+MOREPENLAB.BO	Morepen Laboratories Limited
+IMPAL.NS	India Motor Parts and Accessories Limited
+LUMAXTECH.BO	Lumax Auto Technologies Limited
+LUMAXTECH.NS	Lumax Auto Technologies Limited
+MIRZAINT.NS	Mirza International Limited
+INDIAGLYCO.BO	India Glycols Limited
+MIRZAINT.BO	Mirza International Limited
+INDIAGLYCO.NS	India Glycols Limited
+CGPOWER.NS	CG Power and Industrial Solutions Limited
+MEP.NS	MEP Infrastructure Developers Limited
+CGPOWER.BO	CG Power and Industrial Solutions Limited
+MEP.BO	MEP Infrastructure Developers Limited
+INDORAMA.BO	Indo Rama Synthetics (India) Limited
+SUNFLAG.NS	Sunflag Iron and Steel Company Limited
+SUNFLAG.BO	Sunflag Iron and Steel Company Limited
+ASIANTILES.BO	Asian Granito India Limited
+ASIANTILES.NS	Asian Granito India Limited
+DWARKESH.BO	Dwarikesh Sugar Industries Limited
+DWARKESH.NS	Dwarikesh Sugar Industries Limited
+TRANSPEK.BO	Transpek Industry Limited
+SANDUMA.BO	The Sandur Manganese & Iron Ores Limited
+INDORAMA.NS	Indo Rama Synthetics (India) Limited
+SHARDAMOTR.NS	Sharda Motor Industries Limited
+WPIL.BO	WPIL Limited
+POLYMED.NS	Poly Medicure Limited
+GVKPIL.NS	GVK Power & Infrastructure Limited
+RICOAUTO.NS	Rico Auto Industries Limited
+RICOAUTO.BO	Rico Auto Industries Limited
+GVKPIL.BO	GVK Power & Infrastructure Limited
+SHARDA.BO	Sharda Motor Industries Limited
+KIRLOSIND.NS	Kirloskar Industries Limited
+KIRLOSIND.BO	Kirloskar Industries Limited
+DYNAMATECH.BO	Dynamatic Technologies Limited
+RGL.NS	Renaissance Global Limited
+ZEELEARN.BO	Zee Learn Limited
+GATI.NS	Gati Limited
+ZEELEARN.NS	Zee Learn Limited
+GATI.BO	Gati Limited
+DYNAMATECH.NS	Dynamatic Technologies Limited
+THEINVEST.NS	The Investment Trust of India Limited
+MTNL.NS	Mahanagar Telephone Nigam Limited
+MTNL.BO	Mahanagar Telephone Nigam Limited
+GENUSPOWER.BO	Genus Power Infrastructures Limited
+GENUSPOWER.NS	Genus Power Infrastructures Limited
+PUNJABCHEM.BO	Punjab Chemicals and Crop Protection Limited
+FIEMIND.NS	Fiem Industries Limited
+FIEMIND.BO	Fiem Industries Limited
+MONTECARLO.NS	Monte Carlo Fashions Limited
+MONTECARLO.BO	Monte Carlo Fashions Limited
+PATELENG.BO	Patel Engineering Limited
+UNIVCABLES.BO	Universal Cables Limited
+TWL.NS	Titagarh Wagons Limited
+TWL.BO	Titagarh Wagons Limited
+PUNJABCHEM.NS	Punjab Chemicals and Crop Protection Limited
+PATELENG.NS	Patel Engineering Limited
+UNIVCABLES.NS	Universal Cables Limited
+IMFA.NS	Indian Metals and Ferro Alloys Limited
+IMFA.BO	Indian Metals and Ferro Alloys Limited
+AVADHSUGAR.BO	Avadh Sugar & Energy Limited
+AVADHSUGAR.NS	Avadh Sugar & Energy Limited
+GNA.NS	G N A Axles Limited
+GNA.BO	G N A Axles Limited
+ORIENTPPR.BO	Orient Paper & Industries Limited
+ORIENTPPR.NS	Orient Paper & Industries Limited
+GREENPANEL.NS	Greenpanel Industries Limited
+ELECTCAST.BO	Electrosteel Castings Limited
+ELECTCAST.NS	Electrosteel Castings Limited
+ALICON.NS	Alicon Castalloy Limited
+ALICON.BO	Alicon Castalloy Limited
+NEULANDLAB.BO	Neuland Laboratories Limited
+NEULANDLAB.NS	Neuland Laboratories Limited
+IFGLEXPOR.BO	IFGL Refractories Limited
+ATULAUTO.NS	Atul Auto Limited
+GANECOS.BO	Ganesha Ecosphere Limited
+ATULAUTO.BO	Atul Auto Limited
+VADILALIND.NS	Vadilal Industries Limited
+VADILALIND.BO	Vadilal Industries Limited
+SPAL.NS	S.P. Apparels Limited
+IGPL.BO	I G Petrochemicals Limited
+GANECOS.NS	Ganesha Ecosphere Limited
+BEEKAY.BO	Beekay Steel Industries Limited
+GARWARPOLY.BO	Garware Polyester Limited
+HMVL.NS	Hindustan Media Ventures Limited
+IFGLEXPOR.NS	IFGL Refractories Limited
+HMVL.BO	Hindustan Media Ventures Limited
+IGPL.NS	I G Petrochemicals Limited
+SPAL.BO	S.P. Apparels Limited
+MUNJALSHOW.NS	Munjal Showa Limited
+MUNJALSHOW.BO	Munjal Showa Limited
+SREINFRA.NS	SREI Infrastructure Finance Limited
+SHRIRAMEPC.NS	Shriram EPC Limited
+SKIPPER.BO	Skipper Limited
+SUTLEJTEX.NS	Sutlej Textiles and Industries Limited
+SUTLEJTEX.BO	Sutlej Textiles and Industries Limited
+COSMOFILMS.NS	Cosmo Films Limited
+SREINFRA.BO	SREI Infrastructure Finance Limited
+SKIPPER.NS	Skipper Limited
+COSMOFILMS.BO	Cosmo Films Limited
+JAYBARMARU.BO	Jay Bharat Maruti Limited
+JAYBARMARU.NS	Jay Bharat Maruti Limited
+DHFL.BO	Dewan Housing Finance Corporation Limited
+DHFL.NS	Dewan Housing Finance Corporation Limited
+RAMCOSYS.BO	Ramco Systems Limited
+RAMCOSYS.NS	Ramco Systems Limited
+SHRIRAMEPC.BO	Shriram EPC Limited
+MMWL.BO	Media Matrix Worldwide Limited
+ZUARI.NS	Zuari Agro Chemicals Limited
+ZUARI.BO	Zuari Agro Chemicals Limited
+NAVKARCORP.NS	Navkar Corporation Limited
+NAVKARCORP.BO	Navkar Corporation Limited
+JPASSOCIAT.BO	Jaiprakash Associates Limited
+GTLINFRA.NS	GTL Infrastructure Limited
+BBL.NS	Bharat Bijlee Limited
+BBL.BO	Bharat Bijlee Limited
+JPASSOCIAT.NS	Jaiprakash Associates Limited
+SPENCERS.NS	Spencer's Retail Limited
+GTLINFRA.BO	GTL Infrastructure Limited
+THANGAMAYL.BO	Thangamayil Jewellery Limited
+THANGAMAYL.NS	Thangamayil Jewellery Limited
+CENTUM.NS	Centum Electronics Limited
+MUKANDLTD.NS	Mukand Limited
+JISLJALEQS.BO	Jain Irrigation Systems Limited
+MUKANDLTD.BO	Mukand Limited
+TTML.BO	Tata Teleservices (Maharashtra) Limited
+TTML.NS	Tata Teleservices (Maharashtra) Limited
+JISLJALEQS.NS	Jain Irrigation Systems Limited
+SHEMAROO.BO	Shemaroo Entertainment Limited
+SHEMAROO.NS	Shemaroo Entertainment Limited
+MUNJALAU.BO	Munjal Auto Industries Limited
+PRICOLLTD.BO	Pricol Limited
+MUNJALAU.NS	Munjal Auto Industries Limited
+CENTUM.BO	Centum Electronics Limited
+PRICOLLTD.NS	Pricol Limited
+PLASTIBLEN.BO	Plastiblends India Limited
+NELCAST.NS	Nelcast Limited
+JISLDVREQS.BO	Jain Irrigation Systems Limited
+NELCAST.BO	Nelcast Limited
+HBLPOWER.BO	HBL Power Systems Limited
+EMAMIPAP.BO	Emami Paper Mills Limited
+PLASTIBLEN.NS	Plastiblends India Limited
+HBLPOWER.NS	HBL Power Systems Limited
+SHRENIK.NS	Shrenik Limited
+SVPGLOB.BO	SVP Global Ventures Limited
+TDPOWERSYS.BO	TD Power Systems Limited
+NACLIND.NS	NACL Industries Limited
+NACLIND.BO	NACL Industries Limited
+EVERESTIND.NS	Everest Industries Limited
+JISLDVREQS.NS	Jain Irrigation Systems Limited
+EVERESTIND.BO	Everest Industries Limited
+CMIFPE.BO	CMI FPE Limited
+EMAMIPAP.NS	Emami Paper Mills Limited
+UTTAMSUGAR.BO	Uttam Sugar Mills Limited
+UTTAMSUGAR.NS	Uttam Sugar Mills Limited
+DATAMATICS.BO	Datamatics Global Services Limited
+GOODRICKE.BO	Goodricke Group Limited
+DATAMATICS.NS	Datamatics Global Services Limited
+TDPOWERSYS.NS	TD Power Systems Limited
+VISAKAIND.BO	Visaka Industries Limited
+VISAKAIND.NS	Visaka Industries Limited
+AGCNET.BO	AGC Networks Limited
+DECCANCE.BO	Deccan Cements Limited
+ADORWELD.NS	Ador Welding Limited
+ADORWELD.BO	Ador Welding Limited
+DECCANCE.NS	Deccan Cements Limited
+AGCNET.NS	AGC Networks Limited
+NCLIND.BO	NCL Industries Limited
+ALOKTEXT.NS	Alok Industries Limited
+CENTENKA.NS	Century Enka Limited
+ALOKTEXT.BO	Alok Industries Limited
+ELECON.NS	Elecon Engineering Company Limited
+NCLIND.NS	NCL Industries Limited
+EMPIND.BO	Empire Industries Limited
+CENTENKA.BO	Century Enka Limited
+ELECON.BO	Elecon Engineering Company Limited
+SPIC.NS	Southern Petrochemical Industries Corporation Limited
+PRECAM.BO	Precision Camshafts Limited
+SPIC.BO	Southern Petrochemical Industries Corporation Limited
+KUANTUM.BO	Kuantum Papers Limited
+KUANTUM.NS	Kuantum Papers Limited
+PRECAM.NS	Precision Camshafts Limited
+PANAMAPET.NS	Panama Petrochem Limited
+GLOBUSSPR.BO	Globus Spirits Limited
+GLOBUSSPR.NS	Globus Spirits Limited
+EVEREADY.NS	Eveready Industries India Limited
+RELCAPITAL.NS	Reliance Capital Limited
+RELCAPITAL.BO	Reliance Capital Limited
+DCW.BO	DCW Limited
+PANAMAPET.BO	Panama Petrochem Limited
+EVEREADY.BO	Eveready Industries India Limited
+KSE.BO	KSE Limited
+UDAICEMENT.BO	Udaipur Cement Works Limited
+IFBAGRO.NS	IFB Agro Industries Limited
+IFBAGRO.BO	IFB Agro Industries Limited
+SHAKTIPUMP.BO	Shakti Pumps (India) Limited
+DCW.NS	DCW Limited
+SHAKTIPUMP.NS	Shakti Pumps (India) Limited
+PRECWIRE.NS	Precision Wires India Ltd.
+NRAGRINDQ.BO	N R Agarwal Industries Limited
+NRAIL.NS	N R Agarwal Industries Limited
+MANGCHEFER.BO	Mangalore Chemicals & Fertilizers Limited
+PRECWIRE.BO	Precision Wires India Ltd.
+JETAIRWAYS.NS	Jet Airways (India) Limited
+JETAIRWAYS.BO	Jet Airways (India) Limited
+HTMEDIA.NS	HT Media Limited
+HTMEDIA.BO	HT Media Limited
+PENIND.BO	Pennar Industries Limited
+MANGCHEFER.NS	Mangalore Chemicals & Fertilizers Limited
+INDRAMEDCO.BO	Indraprastha Medical Corporation Limited
+INDRAMEDCO.NS	Indraprastha Medical Corporation Limited
+PENIND.NS	Pennar Industries Limited
+JAYAGROGN.BO	Jayant Agro-Organics Limited
+BUTTERFLY.BO	Butterfly Gandhimathi Appliances Limited
+JAYAGROGN.NS	Jayant Agro-Organics Limited
+BUTTERFLY.NS	Butterfly Gandhimathi Appliances Limited
+DLINKINDIA.BO	D-Link (India) Limited
+UFO.BO	UFO Moviez India Limited
+PGIL.NS	Pearl Global Industries Limited
+DLINKINDIA.NS	D-Link (India) Limited
+UFO.NS	UFO Moviez India Limited
+VRETAIL.BO	V Retail Limited
+RML.NS	Rane (Madras) Limited
+VRETAIL.NS	V Retail Limited
+RML.BO	Rane (Madras) Limited
+PGIL.BO	Pearl Global Industries Limited
+KDDL.BO	KDDL Limited
+TNPETRO.NS	Tamilnadu Petroproducts Limited
+TNPETRO.BO	Tamilnadu Petroproducts Limited
+HSIL.NS	HSIL Limited
+HSIL.BO	HSIL Limited
+GRAVITA.NS	Gravita India Limited
+WEIZFOREX.NS	Weizmann Forex Limited
+ABANSENT.BO	ABans Enterprises Limited
+GRAVITA.BO	Gravita India Limited
+MANALIPETC.NS	Manali Petrochemicals Limited
+WEIZFOREX.BO	Weizmann Forex Limited
+KDDL.NS	KDDL Limited
+HARITASEAT.BO	Harita Seating Systems Limited
+HARITASEAT.NS	Harita Seating Systems Limited
+MANALIPETC.BO	Manali Petrochemicals Limited
+IINFOTECH.NS	i Infotech Limited
+GOKEX.NS	Gokaldas Exports Limited
+GOKEX.BO	Gokaldas Exports Limited
+EKC.NS	Everest Kanto Cylinder Limited
+ONMOBILE.BO	OnMobile Global Limited
+MAHESHWARI.NS	Maheshwari Logistics Limited
+EKC.BO	Everest Kanto Cylinder Limited
+IINFOTECH.BO	i Infotech Limited
+ONMOBILE.NS	OnMobile Global Limited
+BCG.NS	Brightcom Group Limited
+HINDNATGLS.NS	Hindusthan National Glass & Industries Limited
+KHADIM.BO	Khadim India Limited
+MADRASFERT.BO	Madras Fertilizers Limited
+HITECHGEAR.NS	The Hi-Tech Gears Limited
+MADRASFERT.NS	Madras Fertilizers Limited
+HITECHGEAR.BO	The Hi-Tech Gears Limited
+KHADIM.NS	Khadim India Limited
+ANDHRAPET.BO	The Andhra Petrochemicals Limited
+RELTD.BO	Ravindra Energy Limited
+JAIBALAJI.BO	Jai Balaji Industries Limited
+JAIBALAJI.NS	Jai Balaji Industries Limited
+ORICONENT.NS	Oricon Enterprises Limited
+ORICON.BO	Oricon Enterprises Limited
+SINDHUTRAD.BO	Sindhu Trade Links Limited
+SCHAND.NS	S Chand And Company Limited
+UCALFUEL.NS	Ucal Fuel Systems Limited
+UCALFUEL.BO	Ucal Fuel Systems Limited
+RAJGLOWIR.BO	Rajratan Global Wire Limited
+DCMSRMIND.BO	DCM Shriram Industries Limited
+GALLANTT.BO	Gallantt Metal Limited
+VSSL.BO	Vardhman Special Steels Limited
+GALLANTT.NS	Gallantt Metal Limited
+SCHAND.BO	S Chand And Company Limited
+VSSL.NS	Vardhman Special Steels Limited
+DICIND.BO	DIC India Limited
+DICIND.NS	DIC India Limited
+NITINSPIN.NS	Nitin Spinners Ltd.
+STCINDIA.BO	The State Trading Corporation of India Limited
+STCINDIA.NS	The State Trading Corporation of India Limited
+ESTER.BO	Ester Industries Limited
+NITINSPIN.BO	Nitin Spinners Ltd.
+HINDNATGLS.BO	Hindusthan National Glass & Industries Limited
+ESTER.NS	Ester Industries Limited
+NECLIFE.BO	Nectar Lifesciences Limited
+SAURASHCEM.BO	Saurashtra Cement Limited
+NECLIFE.NS	Nectar Lifesciences Limited
+SUKHJITS.BO	The Sukhjit Starch & Chemicals Limited
+KAMDHENU.NS	Kamdhenu Limited
+COASTCORP.BO	Coastal Corporation Limited
+KAMDHENU.BO	Kamdhenu Limited
+MSPL.NS	MSP Steel & Power Limited
+MSPL.BO	MSP Steel & Power Limited
+ZEEMEDIA.BO	Zee Media Corporation Limited
+POKARNA.NS	Pokarna Limited
+POKARNA.BO	Pokarna Limited
+ZEEMEDIA.NS	Zee Media Corporation Limited
+HPL.NS	HPL Electric & Power Limited
+HPL.BO	HPL Electric & Power Limited
+VASCONEQ.BO	Vascon Engineers Limited
+VASCONEQ.NS.NS	Vascon Engineers Limited
+UNITECH.NS	Unitech Limited
+UNITECH.BO	Unitech Limited
+MANINDS.BO	Man Industries (India) Limited
+MANINDS.NS	Man Industries (India) Limited
+BGRENERGY.NS	BGR Energy Systems Limited
+RAMKY.NS	Ramky Infrastructure Limited
+RAMKY.BO	Ramky Infrastructure Limited
+BGRENERGY.BO	BGR Energy Systems Limited
+OPTIEMUS.BO	Optiemus Infracom Limited
+TBZ.NS	Tribhovandas Bhimji Zaveri Limited
+TBZ.BO	Tribhovandas Bhimji Zaveri Limited
+CHAMANSEQ.BO	Chaman Lal Setia Exports Ltd.
+OPTIEMUS.NS	Optiemus Infracom Limited
+SANGAMIND.BO	Sangam (India) Limited
+RSWM.BO	RSWM Limited
+MLKFOOD.BO	Milkfood Limited
+TGVSL.BO	TGV SRAAC Limited
+SANGAMIND.NS	Sangam (India) Limited
+RSWM.NS	RSWM Limited
+HCL-INSYS.BO	HCL Infosystems Limited
+TCPLPACK.NS	TCPL Packaging Limited
+HCL-INSYS.NS	HCL Infosystems Limited
+TCPLPACK.BO	TCPL Packaging Limited
+SHIVAMAUTO.BO	Shivam Autotech Limited
+RCOM.BO	Reliance Communications Limited
+SHIVAMAUTO.NS	Shivam Autotech Limited
+LIBERTSHOE.NS	Liberty Shoes Limited
+LIBERTSHOE.BO	Liberty Shoes Limited
+BIL.BO	Bhartiya International Limited
+MUL.BO	Mauria Udyog Limited
+MANAKSIA.BO	Manaksia Limited
+RCOM.NS	Reliance Communications Limited
+BIL.NS	Bhartiya International Limited
+JAYNECOIND.NS	Jayaswal Neco Industries Limited
+MANAKSIA.NS	Manaksia Limited
+JAYNECOIND.BO	Jayaswal Neco Industries Limited
+GULFPETRO.BO	GP Petroleums Limited
+GULFPETRO.NS	GP Petroleums Limited
+NAGARFERT.BO	Nagarjuna Fertilizers and Chemicals Limited
+BHARATSE.BO	Bharat Seats Limited
+NITCO.BO	Nitco Limited
+SETCO.NS	Setco Automotive Limited
+NAGAFERT.NS	Nagarjuna Fertilizers and Chemicals Limited
+SETCO.BO	Setco Automotive Limited
+BLKASHYAP.NS	B.L. Kashyap and Sons Limited
+ADHUNIKIND.NS	Adhunik Industries Limited
+NITCO.NS	Nitco Limited
+ADHUNIKIND.BO	Adhunik Industries Limited
+TVSELECT.NS	TVS Electronics Limited
+TVSELECT.BO	TVS Electronics Limited
+SIMPLEXINF.BO	Simplex Infrastructures Limited
+SIMPLEXINF.NS	Simplex Infrastructures Limited
+AXISCADES.BO	AXISCADES Engineering Technologies Limited
+STEELXIND.NS	Steel Exchange India Limited
+BLKASHYAP.BO	B.L. Kashyap and Sons Limited
+BANSWRAS.NS	Banswara Syntex Limited
+AXISCADES.NS	AXISCADES Engineering Technologies Limited
+STEELXIND.BO	Steel Exchange India Limited
+VLSFINANCE.BO	VLS Finance Limited
+ZUARIGLOB.BO	Zuari Global Limited
+RUCHIRA.BO	Ruchira Papers Limited
+VLSFINANCE.NS	VLS Finance Limited
+ZUARIGLOB.NS	Zuari Global Limited
+KKALPANAIND.BO	Kkalpana Industries (India) Limited
+RUCHIRA.NS	Ruchira Papers Limited
+MIRCELECTR.BO	MIRC Electronics Limited
+MIRCELECTR.NS	MIRC Electronics Limited
+GULPOLY.BO	Gulshan Polyols Limited
+BANSWRAS.BO	Banswara Syntex Limited
+GOKULAGRO.BO	Gokul Agro Resources Limited
+BASML.BO	Bannari Amman Spinning Mills Limited
+ORIENTBELL.BO	Orient Bell Limited
+ORIENTBELL.NS	Orient Bell Limited
+RIDDHI.BO	Riddhi Siddhi Gluco Biols Limited
+BASML.NS	Bannari Amman Spinning Mills Limited
+INDOAMIN.BO	Indo Amines Limited
+SITINET.BO	SITI Networks Limited
+KOTHARIPRO.BO	Kothari Products Limited
+KOTHARIPRO.NS	Kothari Products Limited
+JPINFRATEC.NS	Jaypee Infratech Limited
+GOKUL.NS	Gokul Refoils & Solvent Ltd
+VIKASWSP.BO	Vikas WSP Limited
+VIDEOIND.BO	Videocon Industries Limited
+GOKUL.BO	Gokul Refoils & Solvent Ltd
+VIKASWSP.NS	Vikas WSP Limited
+KANORICHEM.NS	Kanoria Chemicals & Industries Limited
+KANORICHEM.BO	Kanoria Chemicals & Industries Limited
+SHREYAS.BO	Shreyas Shipping and Logistics Limited
+JPINFRATEC.BO	Jaypee Infratech Limited
+SRHHYPOLTD.BO	Sree Rayalaseema Hi-Strength Hypo Limited
+SALZER.BO	Salzer Electronics Limited
+VIDEOIND.NS	Videocon Industries Limited
+SALZERELEC.NS	Salzer Electronics Limited
+SRHHYPOLTD.NS	Sree Rayalaseema Hi-Strength Hypo Limited
+SHREYAS.NS	Shreyas Shipping and Logistics Limited
+SITINET.NS	SITI Networks Limited
+GOKULAGRO.NS	Gokul Agro Resources Limited
+GSCLCEMENT.NS	Gujarat Sidhee Cement Limited
+GSCLCEMENT.BO	Gujarat Sidhee Cement Limited
+KAJARIR.BO	K I C Metaliks Limited
+UGARSUGAR.BO	The Ugar Sugar Works Limited
+KELLTONTEC.BO	Kellton Tech Solutions Limited
+JAYUSH.BO	Jay Ushin Limited
+TI.BO	Tilaknagar Industries Ltd.
+RAMRAT.BO	Ram Ratna Wires Limited
+HITECH.NS	Hi-Tech Pipes Limited
+UGARSUGAR.NS	The Ugar Sugar Works Limited
+KELLTONTEC.NS	Kellton Tech Solutions Limited
+TI.NS	Tilaknagar Industries Ltd.
+NAHARSPING.BO	Nahar Spinning Mills Ltd
+MAGADHSUGAR.BO	Magadh Sugar & Energy Limited
+SHREYANIND.NS	Shreyans Industries Limited
+MAGADSUGAR.NS	Magadh Sugar & Energy Limited
+DONEAR.BO	Donear Industries Limited
+RPPINFRA.BO	RPP Infra Projects Limited
+NAHARSPING.NS	Nahar Spinning Mills Ltd
+ABAN.NS	Aban Offshore Limited
+SHREYANIND.BO	Shreyans Industries Limited
+DONEAR.NS	Donear Industries Limited
+RPPINFRA.NS	RPP Infra Projects Limited
+VISHNU.BO	Vishnu Chemicals Limited
+ABAN.BO	Aban Offshore Limited
+VISHNU.NS	Vishnu Chemicals Limited
+JUBLINDS.NS	Jubilant Industries Limited
+ELECTHERM.NS	Electrotherm (India) Limited
+ELECTHERM.BO	Electrotherm (India) Limited
+JAYSHREETEA.BO	Jay Shree Tea & Industries Limited
+JAYSREETEA.NS	Jay Shree Tea & Industries Limited
+JUBLINDS.BO	Jubilant Industries Limited
+SALASAR.BO	Salasar Techno Engineering Limited
+SALASAR.NS	Salasar Techno Engineering Limited
+MADHAVIPL.BO	Madhav Infra Projects Limited
+AYMSYNTEX.NS	AYM Syntex Limited
+PARACABLES.BO	Paramount Communications Limited
+TRIGYN.BO	Trigyn Technologies Limited
+TRIGYN.NS	Trigyn Technologies Limited
+UNIPLY.BO	Uniply Industries Limited
+UNIPLY.NS	Uniply Industries Limited
+AYMSYNTEX.BO	AYM Syntex Limited
+DHUNINV.BO	Dhunseri Investments Limited
+DHUNINV.NS	Dhunseri Investments Limited
+AZINFRA.BO	AZ Infra Engineering Limited
+PARACABLES.NS	Paramount Communications Limited
+PRAXIS.BO	Praxis Home Retail Limited
+HDIL.NS	Housing Development and Infrastructure Limited
+HDIL.BO	Housing Development and Infrastructure Limited
+PRAXIS.NS	Praxis Home Retail Limited
+PITTIENG.NS	Pitti Engineering Limited
+MAWANASUG.NS	Mawana Sugars Limited
+AZINFRA.NS	AZ Infra Engineering Limited
+INSPIRISYS.NS	Inspirisys Solutions Limited
+MAWANASUG.BO	Mawana Sugars Limited
+NDL.NS	Nandan Denim Limited
+PDMJEPAPER.BO	Pudumjee Paper Products Limited
+NDL.BO	Nandan Denim Limited
+PDMJEPAPER.NS	Pudumjee Paper Products Limited
+SAKUMA.BO	Sakuma Exports Limited
+AURIONPRO.NS	aurionPro Solutions Limited
+ESSARSHPNG.BO	Essar Shipping Limited
+SAKUMA.NS	Sakuma Exports Limited
+ESSARSHPNG.NS	Essar Shipping Limited
+GOODLUCK.BO	Goodluck India Limited
+AURIONPRO.BO	Aurionpro Solutions Limited
+RHFL.NS	Reliance Home Finance Limited
+BRFL.BO	Bombay Rayon Fashions Limited
+LOYALTEX.BO	Loyal Textile Mills Limited
+EROSMEDIA.BO	Eros International Media Limited
+EROSMEDIA.NS	Eros International Media Limited
+GOODLUCK.NS	Goodluck India Limited
+RELHOME.BO	Reliance Home Finance Limited
+EMAMIREAL.NS	Emami Realty Limited
+INDIANACRY.BO	Indian Acrylics Limited
+BRFL.NS	Bombay Rayon Fashions Limited
+BALASORE.BO	Balasore Alloys Limited
+UTTAMVALUE.BO	Uttam Value Steels Limited
+UVSL.NS	Uttam Value Steels Limited
+MICRONS.NS	 Microns Limited
+MICRONS.BO	 Microns Limited
+SANWARIA.NS	Sanwaria Consumer Limited
+SANWARIA.BO	Sanwaria Consumer Limited
+AGARIND.NS	Agarwal Industrial Corporation Limited
+AGARIND.BO	Agarwal Industrial Corporation Limited
+UTTAMSTL.NS	Uttam Galva Steels Limited
+PML.BO	Paul Merchants Limited
+GULPOLY.NS	Gulshan Polyols Limited
+UTTAMSTL.BO	Uttam Galva Steels Limited
+KRITIIND.BO	Kriti Industries (India) Limited
+INDSWFTLAB.BO	Ind-Swift Laboratories Limited
+GPTINFRA.NS	GPT Infraprojects Limited
+INDSWFTLAB.NS	Ind-Swift Laboratories Limited
+SAKHTISUG.NS	Sakthi Sugars Limited
+NAHARINDUS.BO	Nahar Industrial Enterprises Limited
+NAHARINDUS.NS	Nahar Industrial Enterprises Limited
+SAKHTISUG.BO	Sakthi Sugars Limited
+GPTINFRA.BO	GPT Infraprojects Limited
+COMPINFO.NS	Compuage Infocom Limited
+VIVIMEDLAB.BO	Vivimed Labs Limited
+PGEL.BO	PG Electroplast Limited
+VIVIMEDLAB.NS	Vivimed Labs Limited
+PGEL.NS	PG Electroplast Limited
+VADILENT.BO	Vadilal Enterprises Limited
+ISFT.NS	IntraSoft Technologies Limited
+ISFT.BO	IntraSoft Technologies Limited
+KMILES.NS	K Miles Software Services Limited
+SUPERHOUSE.NS	Superhouse Limited
+KMILES.BO	K Miles Software Services Limited
+MBECL.BO	McNally Bharat Engineering Company Limited
+SUPERHOUSE.BO	Superhouse Limited
+TRIL.NS	Transformers & Rectifiers (India) Limited
+SICAL.NS	Sical Logistics Limited
+PONDYOXIDE.BO	Pondy Oxides and Chemicals Limited
+TRIL.BO	Transformers & Rectifiers (India) Limited
+OMAXAUTO.BO	Omax Autos Limited
+SICAL.BO	Sical Logistics Limited
+SPORTKING.BO	Sportking India Limited
+COMPEAU.BO	Competent Automobiles Company Limited
+OMAXAUTO.NS	Omax Autos Limited
+KRITINUT.BO	Kriti Nutrients Limited
+HUIL.BO	Hindusthan Urban Infrastructure Limited
+MBECL.NS	McNally Bharat Engineering Company Limited
+PARSVNATH.BO	Parsvnath Developers Limited
+COMPUAGE.BO	Compuage Infocom Limited
+MESCON.BO	Mideast Integrated Steel Limited
+PARSVNATH.NS	Parsvnath Developers Limited
+INDSILHYD.BO	Indsil Hydro Power and Manganese Limited
+CRAVATEX.BO	Cravatex Limited
+MANAKSTELTD.BO	Manaksia Steels Limited
+RAMAPHO.BO	Rama Phosphates Limited
+MANAKSTEEL.NS	Manaksia Steels Limited
+MAFATIND.BO	Mafatlal Industries Limited
+PASUPTAC.BO	Pasupati Acrylon Limited
+REFEX.NS	Refex Industries Limited
+REFEX.BO	Refex Industries Limited
+ANSALAPI.BO	Ansal Properties & Infrastructure Limited
+ANSALAPI.NS	Ansal Properties & Infrastructure Limited
+SINTEXPLAST.BO	Sintex Plastics Technology Limited
+SPTL.NS	Sintex Plastics Technology Limited
+IL&FSTRANS.BO	IL&FS Transportation Networks Limited
+JCTLTD.BO	JCT Limited
+ROLTA.NS	Rolta India Limited
+ROLTA.BO	Rolta India Limited
+KUSHAL.BO	Kushal Limited
+IL&FSTRANS.NS	IL&FS Transportation Networks Limited
+CMI.BO	CMI Limited
+CMICABLES.NS	CMI Limited
+NILE.BO	Nile Limited
+BHARATGEAR.BO	Bharat Gears Limited
+SAYAJIIND.BO	Sayaji Industries Limited
+VERITAS.BO	Veritas (India) Limited
+GRMOVER.BO	GRM Overseas Limited
+BHARATGEAR.NS	Bharat Gears Limited
+ISMTLTD.NS	ISMT Limited
+ISMTLTD.BO	ISMT Limited
+SIGNETIND.BO	Signet Industries Limited
+SIGIND.NS	Signet Industries Limited
+MARALOVER.NS	Maral Overseas Limited
+DAMODARIND.NS	Damodar Industries Limited
+MARALOVER.BO	Maral Overseas Limited
+SICAGEN.BO	Sicagen India Limited
+DAMOINDUS.BO	Damodar Industries Limited
+GINNIFILA.NS	Ginni Filaments Limited
+KWALITY.NS	Kwality Limited
+AJANTSOY.BO	Ajanta Soya Limited
+SICAGEN.NS	Sicagen India Limited
+GILLANDERS.BO	Gillanders Arbuthnot and Company Limited
+SINTEX.NS	Sintex Industries Limited
+BHAGYNAGAR.BO	Bhagyanagar India Limited
+JBFIND.BO	JBF Industries Limited
+KWALITY.BO	Kwality Limited
+VISASTEEL.NS	VISA Steel Limited
+GILLANDERS.NS	Gillanders Arbuthnot and Company Limited
+JBFIND.NS	JBF Industries Limited
+GINNIFILA.BO	Ginni Filaments Limited
+SINTEX.BO	Sintex Industries Limited
+VISASTEEL.BO	VISA Steel Limited
+BHAGYANGR.NS	Bhagyanagar India Limited
+BALLARPUR.BO	Ballarpur Industries Limited
+RANASUG.NS	Rana Sugars Limited
+FERROALL.BO	Ferro Alloys Corporation Limited
+RANASUG.BO	Rana Sugars Limited
+AUSOMENT.NS	Ausom Enterprise Limited
+KGDENIM.BO	K G Denim Limited
+MAANALU.NS	Maan Aluminium Limited
+MAANALU.BO	Maan Aluminium Limited
+AUSOMENT.BO	Ausom Enterprise Limited
+BALLARPUR.NS	Ballarpur Industries Limited
+BI.BO	Bilcare Limited
+MCLEODRUSS.BO	McLeod Russel India Limited
+MCLEODRUSS.NS	McLeod Russel India Limited
+TRANSCOR.BO	Transcorp International Limited
+GARDENSILK.BO	Garden Silk Mills Limited
+SPMLINFRA.NS	SPML Infra Limited
+GARDENSILK.NS	Garden Silk Mills Limited
+SPMLINFRA.BO	SPML Infra Limited
+NARAYANI.BO	Narayani Steels Limited
+PUNJLLOYD.BO	Punj Lloyd Limited
+PUNJLLOYD.NS	Punj Lloyd Limited
+WINSOMTX.BO	Winsome Textile Industries Limited
+DCM.BO	DCM Limited
+DCM.NS	DCM Limited
+SBECSUG.BO	SBEC Sugar Limited
+AARVEEDEN.BO	Aarvee Denims and Exports Limited
+SURYALAXMI.BO	Suryalakshmi Cotton Mills Limited
+AARVEEDEN.NS	Aarvee Denims and Exports Limited
+PRECOT.NS	Precot Meridian Limited
+SURYALAXMI.NS	Suryalakshmi Cotton Mills Limited
+SIMBHALS.BO	Simbhaoli Sugars Limited
+SIMBHALS.NS	Simbhaoli Sugars Limited
+AVL.BO	Aditya Vision Limited
+SUPREMEINF.BO	Supreme Infrastructure India Limited
+SUPREMEINF.NS	Supreme Infrastructure India Limited
+IL&FSENGG.NS	IL&FS Engineering and Construction Company Limited
+COX&KINGS.BO	Cox & Kings Limited
+MADHUCON.BO	Madhucon Projects Limited
+MADHUCON.NS	Madhucon Projects Limited
+SELMCL.BO	SEL Manufacturing Company Limited
+COX&KINGS.NS	Cox & Kings Limited
+SELMCL.NS	SEL Manufacturing Company Limited
+MERCATOR.NS	Mercator Limited
+IL&FSENGG.BO	IL&FS Engineering and Construction Company Limited
+SAGAR.BO	Sagar Diamonds Limited
+ANIKINDS.NS	Anik Industries Limited
+SHIRPUR-G.BO	Shirpur Gold Refinery Limited
+SHIRPUR-G.NS	Shirpur Gold Refinery Limited
+MERCATOR.BO	Mercator Limited
+RCIIND.BO	RCI Industries & Technologies Limited
+ANIKINDS.BO	Anik Industries Limited
+BINANIIND.BO	Binani Industries Limited
+BINANIIND.NS	Binani Industries Limited
+AMRAPLIN.BO	Amrapali Industries Limited
+FLEXITUFF.BO	Flexituff International Limited
+PATSPINLTD.BO	Patspin India Limited
+SUMEETINDS.BO	Sumeet Industries Limited
+SUMEETINDS.NS	Sumeet Industries Limited
+FLEXITUFF.NS	Flexituff International Limited
+SHIVAAGRO.BO	Shiva Global Agro Industries Limited
+NAGREEKEXP.BO	Nagreeka Exports Limited
+NAGREEKEXP.NS	Nagreeka Exports Limited
+PATSPINLTD.NS	Patspin India Limited
+SHAHALLOYS.BO	Shah Alloys Limited
+JITFINFRA.NS	JITF Infralogistics Limited
+SHAHALLOYS.NS	Shah Alloys Limited
+JITFINFRA.BO	JITF Infralogistics Limited
+SWARNSAR.BO	Swarnsarita Gems Limited
+DIAPOWER.BO	Diamond Power Infrastructure Limited
+NITINFIRE.NS	Nitin Fire Protection Industries Limited
+DIAPOWER.NS	Diamond Power Infrastructure Limited
+NITINFIRE.BO	Nitin Fire Protection Industries Limited
+LEEL.BO	LEEL Electricals Limited
+LEEL.NS	LEEL Electricals Limited
+JVLAGRO.BO	JVL Agro Industries Limited
+EDL.BO	Empee Distilleries Limited
+NATNLSTEEL.NS	National Steel and Agro Industries Limited
+EDL.NS	Empee Distilleries Limited
+MODAIRY.BO	Modern Dairies Limited
+NATNLSTEEL.BO	National Steel and Agro Industries Limited
+JVLAGRO.NS	JVL Agro Industries Limited
+ANKITMETAL.BO	Ankit Metal & Power Limited
+ROHITFERRO.NS	Rohit Ferro-Tech Limited
+ROHITFERRO.BO	Rohit Ferro-Tech Limited
+CANDC.NS	C & C Constructions Limited
+ANKITMETAL.NS	Ankit Metal & Power Limited
+VARDMNPOLY.BO	Vardhman Polytex Limited
+REGENTRP.BO	Regent Enterprises Limited
+CANDC.BO	C & C Constructions Limited
+HIGHGROUND.NS	High Ground Enterprise Ltd.
+VARDMNPOLY.NS	Vardhman Polytex Limited
+HIGHGROUND.BO	High Ground Enterprise Ltd.
+IIFLWAM.NS	IIFL Wealth Management Limited
